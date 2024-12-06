@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "lighthouse": "^9.6.8",
+    "puppeteer": "^20.8.0"
+  }
+}

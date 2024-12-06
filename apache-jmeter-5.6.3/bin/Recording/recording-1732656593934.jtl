@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="420" it="0" lt="420" ct="286" ts="1732656503860" s="false" lb="/-4" rc="400" rm="Bad Request" tn="" dt="text" de="" by="200" sby="485" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 400 Bad Request
+Server: nginx
+Content-Type: application/ocsp-response
+Content-Length: 5
+Cache-Control: max-age=0, no-cache
+Date: Tue, 26 Nov 2024 21:28:23 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: r11.o.lencr.org
+Content-Type: application/ocsp-request
+Priority: u=2
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate
+Pragma: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Content-Length: 133
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0S0Q0O0M0K0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;&#x1a;R��Y��3�!~�mK��;�g�&#x4;&#x14;&#x8;�&#x11;;�Ѕ&#x18;��&#xf;����&#x1e;��8&apos;&#x2;&#x12;&#x3;g&#x1c;�=��&#x19;0Y8y|.&apos;&#xb;�c</queryString>
+  <java.net.URL>http://r11.o.lencr.org/</java.net.URL>
+</httpSample>
+<httpSample t="3903" it="0" lt="3903" ct="3791" ts="1732656543397" s="true" lb="/spocs-46" rc="200" rm="OK" tn="" dt="text" de="" by="1389" sby="586" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+content-type: application/json
+date: Tue, 26 Nov 2024 21:29:06 GMT
+Content-Length: 1186
+via: 1.1 google
+Alt-Svc: h3=&quot;:443&quot;; ma=2592000,h3-29=&quot;:443&quot;; ma=2592000
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: spocs.getpocket.com
+content-type: application/json
+Priority: u=4
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Content-Length: 266
+</requestHeader>
+  <responseData class="java.lang.String">{&quot;newtab_spocs&quot;:[],&quot;settings&quot;:{&quot;feature_flags&quot;:{&quot;collections&quot;:false,&quot;spoc_v2&quot;:true},&quot;spocsPerNewTabs&quot;:1,&quot;domainAffinityParameterSets&quot;:{&quot;default&quot;:{&quot;combinedDomainFactor&quot;:0.5,&quot;frequencyFactor&quot;:0.5,&quot;itemScoreFactor&quot;:1,&quot;multiDomainBoost&quot;:0,&quot;perfectCombinedDomainScore&quot;:2,&quot;perfectFrequencyVisits&quot;:10,&quot;recencyFactor&quot;:0.5},&quot;fully-personalized&quot;:{&quot;combinedDomainFactor&quot;:0.5,&quot;frequencyFactor&quot;:0.5,&quot;itemScoreFactor&quot;:0.01,&quot;multiDomainBoost&quot;:0,&quot;perfectCombinedDomainScore&quot;:2,&quot;perfectFrequencyVisits&quot;:10,&quot;recencyFactor&quot;:0.5},&quot;fully-personalized-domains&quot;:{&quot;combinedDomainFactor&quot;:0.5,&quot;frequencyFactor&quot;:0.5,&quot;itemScoreFactor&quot;:0.01,&quot;multiDomainBoost&quot;:0,&quot;perfectCombinedDomainScore&quot;:10,&quot;perfectFrequencyVisits&quot;:1,&quot;recencyFactor&quot;:0.5}},&quot;timeSegments&quot;:[{&quot;id&quot;:&quot;week-1&quot;,&quot;startTime&quot;:432000,&quot;endTime&quot;:0,&quot;weightPosition&quot;:1},{&quot;id&quot;:&quot;week-2&quot;,&quot;startTime&quot;:864000,&quot;endTime&quot;:432000,&quot;weightPosition&quot;:1},{&quot;id&quot;:&quot;week-3&quot;,&quot;startTime&quot;:1296000,&quot;endTime&quot;:864000,&quot;weightPosition&quot;:1},{&quot;id&quot;:&quot;week-4&quot;,&quot;startTime&quot;:1728000,&quot;endTime&quot;:1296000,&quot;weightPosition&quot;:1},{&quot;id&quot;:&quot;week-5&quot;,&quot;startTime&quot;:2160000,&quot;endTime&quot;:1728000,&quot;weightPosition&quot;:1},{&quot;id&quot;:&quot;week-6&quot;,&quot;startTime&quot;:2592000,&quot;endTime&quot;:2160000,&quot;weightPosition&quot;:1}]},&quot;sponsored-topsites&quot;:[]}
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;pocket_id&quot;:&quot;{74ea84f1-161a-4d67-b615-20e1b4f92a69}&quot;,&quot;version&quot;:2,&quot;consumer_key&quot;:&quot;40249-e88c401e1b1f2242d9e441c4&quot;,&quot;placements&quot;:[{&quot;name&quot;:&quot;sponsored-topsites&quot;,&quot;ad_types&quot;:[3120],&quot;zone_ids&quot;:[280143]},{&quot;name&quot;:&quot;newtab_spocs&quot;,&quot;ad_types&quot;:[3617],&quot;zone_ids&quot;:[217758,217995]}]}</queryString>
+  <java.net.URL>https://spocs.getpocket.com/spocs</java.net.URL>
+</httpSample>
+
+</testResults>

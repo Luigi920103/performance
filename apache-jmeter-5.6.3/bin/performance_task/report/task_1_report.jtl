@@ -1,0 +1,506 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1732731024599,124,SC00STP00_00_open_app,200,OK,SC00 1-1,text,true,,11393,339,1,1,http://localhost/,123,0,1
+1732731024723,3,SC00STP00_01_open_app/wp-content/,200,OK,SC00 1-1,,true,,28902,604,1,1,http://localhost/wp-content/uploads/2023/03/depositphotos_271979220-stock-photo-fashion-and-hitech-lamp-in-600x384.webp,3,0,0
+1732731024800,122,SC00STP00_00_open_app,200,OK,SC00 1-2,text,true,,11393,339,2,2,http://localhost/,122,0,1
+1732731024922,1,SC00STP00_01_open_app/wp-content/,200,OK,SC00 1-2,,true,,28902,604,2,2,http://localhost/wp-content/uploads/2023/03/depositphotos_271979220-stock-photo-fashion-and-hitech-lamp-in-600x384.webp,1,0,0
+1732731024998,128,SC00STP00_00_open_app,200,OK,SC00 1-3,text,true,,11393,339,3,3,http://localhost/,127,0,1
+1732731025126,1,SC00STP00_01_open_app/wp-content/,200,OK,SC00 1-3,,true,,28902,604,3,3,http://localhost/wp-content/uploads/2023/03/depositphotos_271979220-stock-photo-fashion-and-hitech-lamp-in-600x384.webp,1,0,0
+1732731025199,112,SC00STP00_00_open_app,200,OK,SC00 1-4,text,true,,11393,339,4,4,http://localhost/,112,0,0
+1732731025311,2,SC00STP00_01_open_app/wp-content/,200,OK,SC00 1-4,,true,,28902,604,4,4,http://localhost/wp-content/uploads/2023/03/depositphotos_271979220-stock-photo-fashion-and-hitech-lamp-in-600x384.webp,2,0,0
+1732731025398,86,SC00STP00_00_open_app,200,OK,SC00 1-5,text,true,,11393,339,5,5,http://localhost/,86,0,0
+1732731025484,2,SC00STP00_01_open_app/wp-content/,200,OK,SC00 1-5,,true,,28902,604,5,5,http://localhost/wp-content/uploads/2023/03/depositphotos_271979220-stock-photo-fashion-and-hitech-lamp-in-600x384.webp,2,0,0
+1732731025813,16,SC00STP01_00_config_table,200,OK,SC00 1-1,text,true,,0,0,5,5,null,0,0,0
+1732731025830,118,SC00STP01_01_00_navigate_tables,200,OK,SC00 1-1,text,true,,10252,532,5,5,http://localhost/tables,117,0,0
+1732731025948,66,SC00STP01_01_01_open_a_tables/products//living-room-table7,200,OK,SC00 1-1,text,true,,10746,559,5,5,http://localhost/products/living-room-table7,66,0,0
+1732731026015,6,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-1,text,true,,0,0,5,5,null,0,0,0
+1732731026022,6,SC00STP01_00_config_table,200,OK,SC00 1-2,text,true,,0,0,5,5,null,0,0,0
+1732731026021,33,SC00STP01_01_03_add_tables/wp-admin/admin-ajax.php,200,OK,SC00 1-1,text,true,,722,758,5,5,http://localhost/wp-admin/admin-ajax.php,33,0,0
+1732731025813,239,SC00STP01_select_and_add_first_object - tables,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-1,,true,,21720,1849,5,5,null,216,2,0
+1732731026028,72,SC00STP01_01_00_navigate_tables,200,OK,SC00 1-2,text,true,,10252,532,5,5,http://localhost/tables,72,0,0
+1732731026141,5,SC00STP01_00_config_table,200,OK,SC00 1-3,text,true,,0,0,5,5,null,0,0,0
+1732731026100,72,SC00STP01_01_01_open_a_tables/products//living-room-table6,200,OK,SC00 1-2,text,true,,10669,559,5,5,http://localhost/products/living-room-table6,71,0,0
+1732731026172,7,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-2,text,true,,0,0,5,5,null,0,0,0
+1732731026179,34,SC00STP01_01_03_add_tables/wp-admin/admin-ajax.php,200,OK,SC00 1-2,text,true,,722,758,5,5,http://localhost/wp-admin/admin-ajax.php,34,0,0
+1732731026022,191,SC00STP01_select_and_add_first_object - tables,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-2,,true,,21643,1849,5,5,null,177,0,0
+1732731026146,78,SC00STP01_01_00_navigate_tables,200,OK,SC00 1-3,text,true,,10252,532,5,5,http://localhost/tables,78,0,0
+1732731026224,66,SC00STP01_01_01_open_a_tables/products//living-room-table5,200,OK,SC00 1-3,text,true,,10726,559,5,5,http://localhost/products/living-room-table5,66,0,0
+1732731026290,7,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-3,text,true,,0,0,5,5,null,0,0,0
+1732731026297,30,SC00STP01_01_03_add_tables/wp-admin/admin-ajax.php,200,OK,SC00 1-3,text,true,,722,758,5,5,http://localhost/wp-admin/admin-ajax.php,30,0,0
+1732731026141,186,SC00STP01_select_and_add_first_object - tables,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-3,,true,,21700,1849,5,5,null,174,1,0
+1732731026340,5,SC00STP01_00_config_table,200,OK,SC00 1-4,text,true,,0,0,5,5,null,0,0,0
+1732731026345,70,SC00STP01_01_00_navigate_tables,200,OK,SC00 1-4,text,true,,10252,532,5,5,http://localhost/tables,70,0,0
+1732731026416,69,SC00STP01_01_01_open_a_tables/products//living-room-table4,200,OK,SC00 1-4,text,true,,10745,559,5,5,http://localhost/products/living-room-table4,69,0,0
+1732731026486,6,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-4,text,true,,0,0,5,5,null,0,0,0
+1732731026499,6,SC00STP01_00_config_table,200,OK,SC00 1-5,text,true,,0,0,5,5,null,0,0,0
+1732731026492,30,SC00STP01_01_03_add_tables/wp-admin/admin-ajax.php,200,OK,SC00 1-4,text,true,,722,758,5,5,http://localhost/wp-admin/admin-ajax.php,30,0,0
+1732731026340,180,SC00STP01_select_and_add_first_object - tables,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-4,,true,,21719,1849,5,5,null,169,3,0
+1732731026505,70,SC00STP01_01_00_navigate_tables,200,OK,SC00 1-5,text,true,,10252,532,5,5,http://localhost/tables,70,0,0
+1732731026576,71,SC00STP01_01_01_open_a_tables/products//living-room-table3,200,OK,SC00 1-5,text,true,,10686,559,5,5,http://localhost/products/living-room-table3,71,0,0
+1732731026647,11,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-5,text,true,,0,0,5,5,null,0,0,0
+1732731026658,30,SC00STP01_01_03_add_tables/wp-admin/admin-ajax.php,200,OK,SC00 1-5,text,true,,722,758,5,5,http://localhost/wp-admin/admin-ajax.php,30,0,0
+1732731026499,188,SC00STP01_select_and_add_first_object - tables,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-5,,true,,21660,1849,5,5,null,171,1,0
+1732731027119,13,SC00STP02_00_00_config chair,200,OK,SC00 1-1,text,true,,0,0,5,5,null,0,0,0
+1732731027132,89,SC00STP01_01_00_navigate_chairs,200,OK,SC00 1-1,text,true,,9650,532,5,5,http://localhost/chairs,88,0,0
+1732731027227,6,SC00STP02_00_00_config chair,200,OK,SC00 1-2,text,true,,0,0,5,5,null,0,0,0
+1732731027221,65,SC00STP01_01_01_open_a_chairs/products//modern-chair8,200,OK,SC00 1-1,text,true,,10812,554,5,5,http://localhost/products/modern-chair8,65,0,0
+1732731027286,7,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-1,text,true,,0,0,5,5,null,0,0,0
+1732731027233,72,SC00STP01_01_00_navigate_chairs,200,OK,SC00 1-2,text,true,,9650,532,5,5,http://localhost/chairs,72,0,0
+1732731027293,35,SC00STP01_01_03_add_chairs/wp-admin/admin-ajax.php,200,OK,SC00 1-1,text,true,,722,783,5,5,http://localhost/wp-admin/admin-ajax.php,35,0,0
+1732731027118,209,SC00STP02_select_second_object_50/50-lamp/chair,200,"Number of samples in transaction : 6, number of failing samples : 0",SC00 1-1,,true,,21184,1869,5,5,null,188,1,0
+1732731027305,65,SC00STP01_01_01_open_a_chairs/products//modern-chair7,200,OK,SC00 1-2,text,true,,10712,554,5,5,http://localhost/products/modern-chair7,65,0,0
+1732731027370,6,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-2,text,true,,0,0,5,5,null,0,0,0
+1732731027376,30,SC00STP01_01_03_add_chairs/wp-admin/admin-ajax.php,200,OK,SC00 1-2,text,true,,722,783,5,5,http://localhost/wp-admin/admin-ajax.php,30,0,0
+1732731027227,179,SC00STP02_select_second_object_50/50-lamp/chair,200,"Number of samples in transaction : 6, number of failing samples : 0",SC00 1-2,,true,,21084,1869,5,5,null,167,0,0
+1732731027415,5,SC00STP02_00_00_config chair,200,OK,SC00 1-3,text,true,,0,0,5,5,null,0,0,0
+1732731027420,68,SC00STP01_01_00_navigate_chairs,200,OK,SC00 1-3,text,true,,9650,532,5,5,http://localhost/chairs,68,0,0
+1732731027488,63,SC00STP01_01_01_open_a_chairs/products//modern-chair6,200,OK,SC00 1-3,text,true,,10741,554,5,5,http://localhost/products/modern-chair6,63,0,0
+1732731027551,6,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-3,text,true,,0,0,5,5,null,0,0,0
+1732731027557,28,SC00STP01_01_03_add_chairs/wp-admin/admin-ajax.php,200,OK,SC00 1-3,text,true,,722,783,5,5,http://localhost/wp-admin/admin-ajax.php,28,0,0
+1732731027415,170,SC00STP02_select_second_object_50/50-lamp/chair,200,"Number of samples in transaction : 6, number of failing samples : 0",SC00 1-3,,true,,21113,1869,5,5,null,159,0,0
+1732731027621,9,SC00STP02_00_00_config chair,200,OK,SC00 1-4,text,true,,0,0,5,5,null,0,0,0
+1732731027690,5,SC00STP02_00_00_config chair,200,OK,SC00 1-5,text,true,,0,0,5,5,null,0,0,0
+1732731027630,88,SC00STP01_01_00_navigate_chairs,200,OK,SC00 1-4,text,true,,9650,532,5,5,http://localhost/chairs,88,0,0
+1732731027695,74,SC00STP01_01_00_navigate_chairs,200,OK,SC00 1-5,text,true,,9650,532,5,5,http://localhost/chairs,74,0,0
+1732731027719,69,SC00STP01_01_01_open_a_chairs/products//modern-chair5,200,OK,SC00 1-4,text,true,,10826,554,5,5,http://localhost/products/modern-chair5,68,0,0
+1732731027788,8,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-4,text,true,,0,0,5,5,null,0,0,0
+1732731027796,34,SC00STP01_01_03_add_chairs/wp-admin/admin-ajax.php,200,OK,SC00 1-4,text,true,,722,783,5,5,http://localhost/wp-admin/admin-ajax.php,34,0,0
+1732731027621,208,SC00STP02_select_second_object_50/50-lamp/chair,200,"Number of samples in transaction : 6, number of failing samples : 0",SC00 1-4,,true,,21198,1869,5,5,null,190,2,0
+1732731027770,70,SC00STP01_01_01_open_a_chairs/products//modern-chair4,200,OK,SC00 1-5,text,true,,10911,554,5,5,http://localhost/products/modern-chair4,70,0,0
+1732731027840,6,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-5,text,true,,0,0,5,5,null,0,0,0
+1732731027847,31,SC00STP01_01_03_add_chairs/wp-admin/admin-ajax.php,200,OK,SC00 1-5,text,true,,722,783,5,5,http://localhost/wp-admin/admin-ajax.php,31,0,0
+1732731027690,186,SC00STP02_select_second_object_50/50-lamp/chair,200,"Number of samples in transaction : 6, number of failing samples : 0",SC00 1-5,,true,,21283,1869,5,5,null,175,2,0
+1732731028370,93,checkout_00,200,OK,SC00 1-1,text,true,,13231,542,5,5,http://localhost/checkout,93,0,0
+1732731028464,28,SC00STP03_00_01_00_fill_the_info/wp-admin/admin-ajax.php-919,200,OK,SC00 1-1,text,true,,1037,661,5,5,http://localhost/wp-admin/admin-ajax.php,28,0,0
+1732731028443,57,checkout_00,200,OK,SC00 1-2,text,true,,13231,542,5,5,http://localhost/checkout,56,0,0
+1732731028500,28,SC00STP03_00_01_00_fill_the_info/wp-admin/admin-ajax.php-919,200,OK,SC00 1-2,text,true,,1037,661,5,5,http://localhost/wp-admin/admin-ajax.php,28,0,0
+1732731028492,160,SC00STP03_00_01_01_checkout,200,OK,SC00 1-1,text,true,,8827,4563,5,5,http://localhost/thank-you,112,0,0
+1732731028492,112,SC00STP03_00_01_01_checkout-0,302,Found,SC00 1-1,text,true,,508,3994,5,5,http://localhost/checkout,112,0,0
+1732731028604,48,SC00STP03_00_01_01_checkout-1,200,OK,SC00 1-1,text,true,,8319,569,5,5,http://localhost/thank-you,47,0,0
+1732731028529,157,SC00STP03_00_01_01_checkout,200,OK,SC00 1-2,text,true,,8827,4876,5,5,http://localhost/thank-you,109,0,0
+1732731028529,109,SC00STP03_00_01_01_checkout-0,302,Found,SC00 1-2,text,true,,508,4307,5,5,http://localhost/checkout,109,0,0
+1732731028638,48,SC00STP03_00_01_01_checkout-1,200,OK,SC00 1-2,text,true,,8319,569,5,5,http://localhost/thank-you,48,0,0
+1732731028652,51,thank-you-921,200,OK,SC00 1-1,text,true,,8319,543,5,5,http://localhost/thank-you,50,0,0
+1732731028370,332,SC00STP03_01_checkout,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-1,,true,,31414,6309,5,5,null,283,1,0
+1732731028686,48,thank-you-921,200,OK,SC00 1-2,text,true,,8319,543,5,5,http://localhost/thank-you,48,0,0
+1732731028443,290,SC00STP03_01_checkout,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-2,,true,,31414,6622,5,5,null,241,1,0
+1732731028679,58,checkout_00,200,OK,SC00 1-3,text,true,,13232,542,5,5,http://localhost/checkout,58,0,0
+1732731028737,25,SC00STP03_00_01_00_fill_the_info/wp-admin/admin-ajax.php-919,200,OK,SC00 1-3,text,true,,1037,661,5,5,http://localhost/wp-admin/admin-ajax.php,25,0,0
+1732731028849,87,checkout_00,200,OK,SC00 1-4,text,true,,13233,542,5,5,http://localhost/checkout,87,0,0
+1732731028763,211,SC00STP03_00_01_01_checkout,200,OK,SC00 1-3,text,true,,8827,4705,5,5,http://localhost/thank-you,144,0,0
+1732731028763,144,SC00STP03_00_01_01_checkout-0,302,Found,SC00 1-3,text,true,,508,4136,5,5,http://localhost/checkout,144,0,0
+1732731028907,67,SC00STP03_00_01_01_checkout-1,200,OK,SC00 1-3,text,true,,8319,569,5,5,http://localhost/thank-you,67,0,0
+1732731028936,39,SC00STP03_00_01_00_fill_the_info/wp-admin/admin-ajax.php-919,200,OK,SC00 1-4,text,true,,1037,661,5,5,http://localhost/wp-admin/admin-ajax.php,39,0,0
+1732731028878,98,checkout_00,200,OK,SC00 1-5,text,true,,13230,542,5,5,http://localhost/checkout,97,0,0
+1732731028976,37,SC00STP03_00_01_00_fill_the_info/wp-admin/admin-ajax.php-919,200,OK,SC00 1-5,text,true,,1037,661,5,5,http://localhost/wp-admin/admin-ajax.php,37,0,0
+1732731028974,59,thank-you-921,200,OK,SC00 1-3,text,true,,8319,543,5,5,http://localhost/thank-you,59,0,0
+1732731028679,353,SC00STP03_01_checkout,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-3,,true,,31415,6451,5,5,null,286,1,0
+1732731028975,131,SC00STP03_00_01_01_checkout,200,OK,SC00 1-4,text,true,,8827,4772,5,5,http://localhost/thank-you,83,0,0
+1732731028975,83,SC00STP03_00_01_01_checkout-0,302,Found,SC00 1-4,text,true,,508,4203,5,5,http://localhost/checkout,83,0,0
+1732731029058,48,SC00STP03_00_01_01_checkout-1,200,OK,SC00 1-4,text,true,,8319,569,5,5,http://localhost/thank-you,48,0,0
+1732731029013,115,SC00STP03_00_01_01_checkout,200,OK,SC00 1-5,text,true,,8827,4636,5,5,http://localhost/thank-you,70,0,0
+1732731029013,70,SC00STP03_00_01_01_checkout-0,302,Found,SC00 1-5,text,true,,508,4067,5,5,http://localhost/checkout,70,0,0
+1732731029083,45,SC00STP03_00_01_01_checkout-1,200,OK,SC00 1-5,text,true,,8319,569,5,5,http://localhost/thank-you,45,0,0
+1732731029106,45,thank-you-921,200,OK,SC00 1-4,text,true,,8319,543,5,5,http://localhost/thank-you,44,0,0
+1732731028849,302,SC00STP03_01_checkout,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-4,,true,,31416,6518,5,5,null,253,0,0
+1732731029128,44,thank-you-921,200,OK,SC00 1-5,text,true,,8319,543,5,5,http://localhost/thank-you,44,0,0
+1732731028878,294,SC00STP03_01_checkout,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-5,,true,,31413,6382,5,5,null,248,0,0
+1732731029745,136,SC00STP00_00_open_app,200,OK,SC00 1-1,text,true,,11393,339,5,5,http://localhost/,136,0,2
+1732731029882,1,SC00STP00_01_open_app/wp-content/,200,OK,SC00 1-1,,true,,28902,604,5,5,http://localhost/wp-content/uploads/2023/03/depositphotos_271979220-stock-photo-fashion-and-hitech-lamp-in-600x384.webp,1,0,0
+1732731029737,147,SC00STP00_00_open_app,200,OK,SC00 1-2,text,true,,11393,339,5,5,http://localhost/,146,0,3
+1732731029884,1,SC00STP00_01_open_app/wp-content/,200,OK,SC00 1-2,,true,,28902,604,5,5,http://localhost/wp-content/uploads/2023/03/depositphotos_271979220-stock-photo-fashion-and-hitech-lamp-in-600x384.webp,1,0,0
+1732731030056,85,SC00STP00_00_open_app,200,OK,SC00 1-3,text,true,,11393,339,5,5,http://localhost/,85,0,1
+1732731030141,1,SC00STP00_01_open_app/wp-content/,200,OK,SC00 1-3,,true,,28902,604,5,5,http://localhost/wp-content/uploads/2023/03/depositphotos_271979220-stock-photo-fashion-and-hitech-lamp-in-600x384.webp,1,0,0
+1732731030220,90,SC00STP00_00_open_app,200,OK,SC00 1-4,text,true,,11393,339,5,5,http://localhost/,90,0,0
+1732731030311,1,SC00STP00_01_open_app/wp-content/,200,OK,SC00 1-4,,true,,28902,604,5,5,http://localhost/wp-content/uploads/2023/03/depositphotos_271979220-stock-photo-fashion-and-hitech-lamp-in-600x384.webp,1,0,0
+1732731030225,90,SC00STP00_00_open_app,200,OK,SC00 1-5,text,true,,11393,339,5,5,http://localhost/,90,0,1
+1732731030315,1,SC00STP00_01_open_app/wp-content/,200,OK,SC00 1-5,,true,,28902,604,5,5,http://localhost/wp-content/uploads/2023/03/depositphotos_271979220-stock-photo-fashion-and-hitech-lamp-in-600x384.webp,1,0,0
+1732731030944,21,SC00STP01_00_config_table,200,OK,SC00 1-1,text,true,,0,0,5,5,null,0,0,0
+1732731030973,12,SC00STP01_00_config_table,200,OK,SC00 1-2,text,true,,0,0,5,5,null,0,0,0
+1732731030965,97,SC00STP01_01_00_navigate_tables,200,OK,SC00 1-1,text,true,,10252,532,5,5,http://localhost/tables,97,0,0
+1732731030985,84,SC00STP01_01_00_navigate_tables,200,OK,SC00 1-2,text,true,,10252,532,5,5,http://localhost/tables,84,0,0
+1732731031063,74,SC00STP01_01_01_open_a_tables/products//table1,200,OK,SC00 1-1,text,true,,10676,547,5,5,http://localhost/products/table1,74,0,0
+1732731031069,69,SC00STP01_01_01_open_a_tables/products//living-room-table2,200,OK,SC00 1-2,text,true,,10699,559,5,5,http://localhost/products/living-room-table2,69,0,0
+1732731031138,8,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-1,text,true,,0,0,5,5,null,0,0,0
+1732731031139,7,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-2,text,true,,0,0,5,5,null,0,0,0
+1732731031164,9,SC00STP01_00_config_table,200,OK,SC00 1-3,text,true,,0,0,5,5,null,0,0,0
+1732731031146,37,SC00STP01_01_03_add_tables/wp-admin/admin-ajax.php,200,OK,SC00 1-1,text,true,,722,776,5,5,http://localhost/wp-admin/admin-ajax.php,37,0,0
+1732731030944,237,SC00STP01_select_and_add_first_object - tables,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-1,,true,,21650,1855,5,5,null,208,2,0
+1732731031146,39,SC00STP01_01_03_add_tables/wp-admin/admin-ajax.php,200,OK,SC00 1-2,text,true,,722,789,5,5,http://localhost/wp-admin/admin-ajax.php,39,0,0
+1732731030973,211,SC00STP01_select_and_add_first_object - tables,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-2,,true,,21673,1880,5,5,null,192,2,0
+1732731031174,73,SC00STP01_01_00_navigate_tables,200,OK,SC00 1-3,text,true,,10252,532,5,5,http://localhost/tables,73,0,0
+1732731031247,70,SC00STP01_01_01_open_a_tables/products//kitchen-table8,200,OK,SC00 1-3,text,true,,10691,555,5,5,http://localhost/products/kitchen-table8,70,0,0
+1732731031318,8,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-3,text,true,,0,0,5,5,null,0,0,0
+1732731031342,6,SC00STP01_00_config_table,200,OK,SC00 1-5,text,true,,0,0,5,5,null,0,0,0
+1732731031326,36,SC00STP01_01_03_add_tables/wp-admin/admin-ajax.php,200,OK,SC00 1-3,text,true,,722,785,5,5,http://localhost/wp-admin/admin-ajax.php,36,0,0
+1732731031164,196,SC00STP01_select_and_add_first_object - tables,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-3,,true,,21665,1872,5,5,null,179,3,0
+1732731031371,6,SC00STP01_00_config_table,200,OK,SC00 1-4,text,true,,0,0,5,5,null,0,0,0
+1732731031349,78,SC00STP01_01_00_navigate_tables,200,OK,SC00 1-5,text,true,,10252,532,5,5,http://localhost/tables,78,0,0
+1732731031377,74,SC00STP01_01_00_navigate_tables,200,OK,SC00 1-4,text,true,,10252,532,5,5,http://localhost/tables,74,0,0
+1732731031428,71,SC00STP01_01_01_open_a_tables/products//kitchen-table6,200,OK,SC00 1-5,text,true,,10758,555,5,5,http://localhost/products/kitchen-table6,71,0,0
+1732731031499,8,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-5,text,true,,0,0,5,5,null,0,0,0
+1732731031451,70,SC00STP01_01_01_open_a_tables/products//kitchen-table7,200,OK,SC00 1-4,text,true,,10609,555,5,5,http://localhost/products/kitchen-table7,69,0,0
+1732731031521,6,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-4,text,true,,0,0,5,5,null,0,0,0
+1732731031507,33,SC00STP01_01_03_add_tables/wp-admin/admin-ajax.php,200,OK,SC00 1-5,text,true,,722,785,5,5,http://localhost/wp-admin/admin-ajax.php,33,0,0
+1732731031342,196,SC00STP01_select_and_add_first_object - tables,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-5,,true,,21732,1872,5,5,null,182,2,0
+1732731031528,30,SC00STP01_01_03_add_tables/wp-admin/admin-ajax.php,200,OK,SC00 1-4,text,true,,722,785,5,5,http://localhost/wp-admin/admin-ajax.php,30,0,0
+1732731031371,186,SC00STP01_select_and_add_first_object - tables,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-4,,true,,21583,1872,5,5,null,173,1,0
+1732731032187,5,SC00STP02_00_01_config lamp,200,OK,SC00 1-2,text,true,,0,0,5,5,null,0,0,0
+1732731032246,6,SC00STP02_00_01_config lamp,200,OK,SC00 1-1,text,true,,0,0,5,5,null,0,0,0
+1732731032192,82,SC00STP01_01_00_navigate_lamps,200,OK,SC00 1-2,text,true,,9578,531,5,5,http://localhost/lamps,82,0,0
+1732731032252,71,SC00STP01_01_00_navigate_lamps,200,OK,SC00 1-1,text,true,,9578,531,5,5,http://localhost/lamps,71,0,0
+1732731032274,64,SC00STP01_01_01_open_a_lamps/products//retro-lamp3,200,OK,SC00 1-2,text,true,,10723,551,5,5,http://localhost/products/retro-lamp3,64,0,0
+1732731032338,7,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-2,text,true,,0,0,5,5,null,0,0,0
+1732731032346,35,SC00STP01_01_03_add_lamps/wp-admin/admin-ajax.php,200,OK,SC00 1-2,text,true,,722,782,5,5,http://localhost/wp-admin/admin-ajax.php,35,0,0
+1732731032187,193,SC00STP02_select_second_object_50/50-lamp/chair,200,"Number of samples in transaction : 6, number of failing samples : 0",SC00 1-2,,true,,21023,1864,5,5,null,181,1,0
+1732731032323,69,SC00STP01_01_01_open_a_lamps/products//retro-lamp2,200,OK,SC00 1-1,text,true,,10728,551,5,5,http://localhost/products/retro-lamp2,69,0,0
+1732731032393,6,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-1,text,true,,0,0,5,5,null,0,0,0
+1732731032414,5,SC00STP02_00_01_config lamp,200,OK,SC00 1-3,text,true,,0,0,5,5,null,0,0,0
+1732731032399,29,SC00STP01_01_03_add_lamps/wp-admin/admin-ajax.php,200,OK,SC00 1-1,text,true,,722,782,5,5,http://localhost/wp-admin/admin-ajax.php,29,0,0
+1732731032246,181,SC00STP02_select_second_object_50/50-lamp/chair,200,"Number of samples in transaction : 6, number of failing samples : 0",SC00 1-1,,true,,21028,1864,5,5,null,169,1,0
+1732731032419,66,SC00STP01_01_00_navigate_lamps,200,OK,SC00 1-3,text,true,,9578,531,5,5,http://localhost/lamps,66,0,0
+1732731032485,64,SC00STP01_01_01_open_a_lamps/products//retro-lamp1,200,OK,SC00 1-3,text,true,,10715,551,5,5,http://localhost/products/retro-lamp1,64,0,0
+1732731032550,6,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-3,text,true,,0,0,5,5,null,0,0,0
+1732731032558,5,SC00STP02_00_01_config lamp,200,OK,SC00 1-5,text,true,,0,0,5,5,null,0,0,0
+1732731032556,33,SC00STP01_01_03_add_lamps/wp-admin/admin-ajax.php,200,OK,SC00 1-3,text,true,,722,782,5,5,http://localhost/wp-admin/admin-ajax.php,33,0,0
+1732731032414,174,SC00STP02_select_second_object_50/50-lamp/chair,200,"Number of samples in transaction : 6, number of failing samples : 0",SC00 1-3,,true,,21015,1864,5,5,null,163,2,0
+1732731032563,76,SC00STP01_01_00_navigate_lamps,200,OK,SC00 1-5,text,true,,9578,531,5,5,http://localhost/lamps,75,0,0
+1732731032642,8,SC00STP02_00_01_config lamp,200,OK,SC00 1-4,text,true,,0,0,5,5,null,0,0,0
+1732731032639,73,SC00STP01_01_01_open_a_lamps/products//hi-tech-lamp7,200,OK,SC00 1-5,text,true,,10704,553,5,5,http://localhost/products/hi-tech-lamp7,73,0,0
+1732731032713,7,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-5,text,true,,0,0,5,5,null,0,0,0
+1732731032650,79,SC00STP01_01_00_navigate_lamps,200,OK,SC00 1-4,text,true,,9578,531,5,5,http://localhost/lamps,79,0,0
+1732731032720,34,SC00STP01_01_03_add_lamps/wp-admin/admin-ajax.php,200,OK,SC00 1-5,text,true,,722,784,5,5,http://localhost/wp-admin/admin-ajax.php,34,0,0
+1732731032558,195,SC00STP02_select_second_object_50/50-lamp/chair,200,"Number of samples in transaction : 6, number of failing samples : 0",SC00 1-5,,true,,21004,1868,5,5,null,182,1,0
+1732731032729,66,SC00STP01_01_01_open_a_lamps/products//hi-tech-lamp8,200,OK,SC00 1-4,text,true,,10685,553,5,5,http://localhost/products/hi-tech-lamp8,66,0,0
+1732731032796,6,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-4,text,true,,0,0,5,5,null,0,0,0
+1732731032802,32,SC00STP01_01_03_add_lamps/wp-admin/admin-ajax.php,200,OK,SC00 1-4,text,true,,722,784,5,5,http://localhost/wp-admin/admin-ajax.php,32,0,0
+1732731032642,191,SC00STP02_select_second_object_50/50-lamp/chair,200,"Number of samples in transaction : 6, number of failing samples : 0",SC00 1-4,,true,,20985,1868,5,5,null,177,1,0
+1732731033422,75,SC00STP03_00_00_00_navigate_to_the_cart/cart,200,OK,SC00 1-2,text,true,,9029,550,5,5,http://localhost/cart,75,0,0
+1732731033450,57,SC00STP03_00_00_00_navigate_to_the_cart/cart,200,OK,SC00 1-1,text,true,,9006,550,5,5,http://localhost/cart,57,0,0
+1732731033497,62,SC00STP03_00_00_01_place_an_order/checkout,200,OK,SC00 1-2,text,true,,13228,815,5,5,http://localhost/checkout,61,0,0
+1732731033508,61,SC00STP03_00_00_01_place_an_order/checkout,200,OK,SC00 1-1,text,true,,13226,815,5,5,http://localhost/checkout,61,0,0
+1732731033559,29,SC00STP03_00_01_00_fill_the_info/wp-admin/admin-ajax.php-919,200,OK,SC00 1-2,text,true,,1037,661,5,5,http://localhost/wp-admin/admin-ajax.php,29,0,0
+1732731033569,28,SC00STP03_00_01_00_fill_the_info/wp-admin/admin-ajax.php-919,200,OK,SC00 1-1,text,true,,1037,661,5,5,http://localhost/wp-admin/admin-ajax.php,28,0,0
+1732731033686,60,SC00STP03_00_00_00_navigate_to_the_cart/cart,200,OK,SC00 1-3,text,true,,9026,550,5,5,http://localhost/cart,60,0,0
+1732731033597,199,SC00STP03_00_01_01_checkout,200,OK,SC00 1-1,text,true,,8827,4722,5,5,http://localhost/thank-you,143,0,0
+1732731033597,143,SC00STP03_00_01_01_checkout-0,302,Found,SC00 1-1,text,true,,508,4153,5,5,http://localhost/checkout,143,0,0
+1732731033740,56,SC00STP03_00_01_01_checkout-1,200,OK,SC00 1-1,text,true,,8319,569,5,5,http://localhost/thank-you,56,0,0
+1732731033589,208,SC00STP03_00_01_01_checkout,200,OK,SC00 1-2,text,true,,8827,4751,5,5,http://localhost/thank-you,150,0,0
+1732731033589,150,SC00STP03_00_01_01_checkout-0,302,Found,SC00 1-2,text,true,,508,4182,5,5,http://localhost/checkout,150,0,0
+1732731033739,58,SC00STP03_00_01_01_checkout-1,200,OK,SC00 1-2,text,true,,8319,569,5,5,http://localhost/thank-you,58,0,0
+1732731033747,72,SC00STP03_00_00_01_place_an_order/checkout,200,OK,SC00 1-3,text,true,,13229,815,5,5,http://localhost/checkout,71,0,0
+1732731033766,75,SC00STP03_00_00_00_navigate_to_the_cart/cart,200,OK,SC00 1-5,text,true,,9031,552,5,5,http://localhost/cart,75,0,0
+1732731033819,35,SC00STP03_00_01_00_fill_the_info/wp-admin/admin-ajax.php-919,200,OK,SC00 1-3,text,true,,1037,661,5,5,http://localhost/wp-admin/admin-ajax.php,35,0,0
+1732731033798,62,SC00STP03_00_02_thank-you,200,OK,SC00 1-2,text,true,,8319,543,5,5,http://localhost/thank-you,61,0,0
+1732731033422,436,SC00STP03_00_check_cart,200,"Number of samples in transaction : 7, number of failing samples : 0",SC00 1-2,,true,,40440,7320,5,5,null,376,2,0
+1732731033796,77,SC00STP03_00_02_thank-you,200,OK,SC00 1-1,text,true,,8319,543,5,5,http://localhost/thank-you,77,0,0
+1732731033450,422,SC00STP03_00_check_cart,200,"Number of samples in transaction : 7, number of failing samples : 0",SC00 1-1,,true,,40415,7291,5,5,null,366,1,0
+1732731033844,59,SC00STP03_00_00_00_navigate_to_the_cart/cart,200,OK,SC00 1-4,text,true,,9028,552,5,5,http://localhost/cart,59,0,0
+1732731033842,72,SC00STP03_00_00_01_place_an_order/checkout,200,OK,SC00 1-5,text,true,,13231,815,5,5,http://localhost/checkout,72,0,0
+1732731033915,29,SC00STP03_00_01_00_fill_the_info/wp-admin/admin-ajax.php-919,200,OK,SC00 1-5,text,true,,1037,661,5,5,http://localhost/wp-admin/admin-ajax.php,29,0,0
+1732731033904,62,SC00STP03_00_00_01_place_an_order/checkout,200,OK,SC00 1-4,text,true,,13230,815,5,5,http://localhost/checkout,61,0,0
+1732731033855,137,SC00STP03_00_01_01_checkout,200,OK,SC00 1-3,text,true,,8827,4714,5,5,http://localhost/thank-you,89,0,0
+1732731033855,89,SC00STP03_00_01_01_checkout-0,302,Found,SC00 1-3,text,true,,508,4145,5,5,http://localhost/checkout,89,0,0
+1732731033945,47,SC00STP03_00_01_01_checkout-1,200,OK,SC00 1-3,text,true,,8319,569,5,5,http://localhost/thank-you,47,0,0
+1732731033966,29,SC00STP03_00_01_00_fill_the_info/wp-admin/admin-ajax.php-919,200,OK,SC00 1-4,text,true,,1037,661,5,5,http://localhost/wp-admin/admin-ajax.php,29,0,0
+1732731033992,47,SC00STP03_00_02_thank-you,200,OK,SC00 1-3,text,true,,8319,543,5,5,http://localhost/thank-you,47,0,0
+1732731033686,351,SC00STP03_00_check_cart,200,"Number of samples in transaction : 7, number of failing samples : 0",SC00 1-3,,true,,40438,7283,5,5,null,302,2,0
+1732731033945,198,SC00STP03_00_01_01_checkout,200,OK,SC00 1-5,text,true,,8827,4618,5,5,http://localhost/thank-you,139,0,0
+1732731033945,139,SC00STP03_00_01_01_checkout-0,302,Found,SC00 1-5,text,true,,508,4049,5,5,http://localhost/checkout,139,0,0
+1732731034084,59,SC00STP03_00_01_01_checkout-1,200,OK,SC00 1-5,text,true,,8319,569,5,5,http://localhost/thank-you,59,0,0
+1732731034144,51,SC00STP03_00_02_thank-you,200,OK,SC00 1-5,text,true,,8319,543,5,5,http://localhost/thank-you,51,0,0
+1732731033766,425,SC00STP03_00_check_cart,200,"Number of samples in transaction : 7, number of failing samples : 0",SC00 1-5,,true,,40445,7189,5,5,null,366,4,0
+1732731033996,209,SC00STP03_00_01_01_checkout,200,OK,SC00 1-4,text,true,,8827,4823,5,5,http://localhost/thank-you,162,0,0
+1732731033996,162,SC00STP03_00_01_01_checkout-0,302,Found,SC00 1-4,text,true,,508,4254,5,5,http://localhost/checkout,162,0,0
+1732731034158,47,SC00STP03_00_01_01_checkout-1,200,OK,SC00 1-4,text,true,,8319,569,5,5,http://localhost/thank-you,46,0,0
+1732731034205,42,SC00STP03_00_02_thank-you,200,OK,SC00 1-4,text,true,,8319,543,5,5,http://localhost/thank-you,41,0,0
+1732731033844,401,SC00STP03_00_check_cart,200,"Number of samples in transaction : 7, number of failing samples : 0",SC00 1-4,,true,,40441,7394,5,5,null,352,2,0
+1732731034902,131,SC00STP00_00_open_app,200,OK,SC00 1-1,text,true,,11393,339,5,5,http://localhost/,131,0,1
+1732731035033,1,SC00STP00_01_open_app/wp-content/,200,OK,SC00 1-1,,true,,28902,604,5,5,http://localhost/wp-content/uploads/2023/03/depositphotos_271979220-stock-photo-fashion-and-hitech-lamp-in-600x384.webp,1,0,0
+1732731034933,108,SC00STP00_00_open_app,200,OK,SC00 1-2,text,true,,11393,339,5,5,http://localhost/,107,0,2
+1732731035041,1,SC00STP00_01_open_app/wp-content/,200,OK,SC00 1-2,,true,,28902,604,5,5,http://localhost/wp-content/uploads/2023/03/depositphotos_271979220-stock-photo-fashion-and-hitech-lamp-in-600x384.webp,1,0,0
+1732731035118,99,SC00STP00_00_open_app,200,OK,SC00 1-3,text,true,,11393,339,5,5,http://localhost/,99,0,1
+1732731035217,1,SC00STP00_01_open_app/wp-content/,200,OK,SC00 1-3,,true,,28902,604,5,5,http://localhost/wp-content/uploads/2023/03/depositphotos_271979220-stock-photo-fashion-and-hitech-lamp-in-600x384.webp,1,0,0
+1732731035212,87,SC00STP00_00_open_app,200,OK,SC00 1-5,text,true,,11393,339,5,5,http://localhost/,87,0,1
+1732731035299,2,SC00STP00_01_open_app/wp-content/,200,OK,SC00 1-5,,true,,28902,604,5,5,http://localhost/wp-content/uploads/2023/03/depositphotos_271979220-stock-photo-fashion-and-hitech-lamp-in-600x384.webp,1,0,0
+1732731035296,88,SC00STP00_00_open_app,200,OK,SC00 1-4,text,true,,11393,339,5,5,http://localhost/,88,0,1
+1732731035385,1,SC00STP00_01_open_app/wp-content/,200,OK,SC00 1-4,,true,,28902,604,5,5,http://localhost/wp-content/uploads/2023/03/depositphotos_271979220-stock-photo-fashion-and-hitech-lamp-in-600x384.webp,1,0,0
+1732731036076,19,SC00STP01_00_config_table,200,OK,SC00 1-1,text,true,,0,0,5,5,null,0,0,0
+1732731036112,13,SC00STP01_00_config_table,200,OK,SC00 1-2,text,true,,0,0,5,5,null,0,0,0
+1732731036096,102,SC00STP01_01_00_navigate_tables,200,OK,SC00 1-1,text,true,,10252,532,5,5,http://localhost/tables,101,0,0
+1732731036125,83,SC00STP01_01_00_navigate_tables,200,OK,SC00 1-2,text,true,,10252,532,5,5,http://localhost/tables,82,0,0
+1732731036228,8,SC00STP01_00_config_table,200,OK,SC00 1-3,text,true,,0,0,5,5,null,0,0,0
+1732731036198,94,SC00STP01_01_01_open_a_tables/products//kitchen-table5,200,OK,SC00 1-1,text,true,,10675,555,5,5,http://localhost/products/kitchen-table5,93,0,0
+1732731036208,90,SC00STP01_01_01_open_a_tables/products//kitchen-table4,200,OK,SC00 1-2,text,true,,10709,555,5,5,http://localhost/products/kitchen-table4,90,0,0
+1732731036292,9,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-1,text,true,,0,0,5,5,null,0,0,0
+1732731036298,12,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-2,text,true,,0,0,5,5,null,0,0,0
+1732731036236,99,SC00STP01_01_00_navigate_tables,200,OK,SC00 1-3,text,true,,10252,532,5,5,http://localhost/tables,99,0,0
+1732731036301,40,SC00STP01_01_03_add_tables/wp-admin/admin-ajax.php,200,OK,SC00 1-1,text,true,,722,785,5,5,http://localhost/wp-admin/admin-ajax.php,40,0,0
+1732731036076,264,SC00STP01_select_and_add_first_object - tables,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-1,,true,,21649,1872,5,5,null,234,1,0
+1732731036335,10,SC00STP01_00_config_table,200,OK,SC00 1-5,text,true,,0,0,5,5,null,0,0,0
+1732731036310,43,SC00STP01_01_03_add_tables/wp-admin/admin-ajax.php,200,OK,SC00 1-2,text,true,,722,785,5,5,http://localhost/wp-admin/admin-ajax.php,43,0,0
+1732731036112,241,SC00STP01_select_and_add_first_object - tables,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-2,,true,,21683,1872,5,5,null,215,0,0
+1732731036335,80,SC00STP01_01_01_open_a_tables/products//kitchen-table3,200,OK,SC00 1-3,text,true,,10670,555,5,5,http://localhost/products/kitchen-table3,79,0,0
+1732731036415,7,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-3,text,true,,0,0,5,5,null,0,0,0
+1732731036345,83,SC00STP01_01_00_navigate_tables,200,OK,SC00 1-5,text,true,,10252,532,5,5,http://localhost/tables,83,0,0
+1732731036422,36,SC00STP01_01_03_add_tables/wp-admin/admin-ajax.php,200,OK,SC00 1-3,text,true,,722,785,5,5,http://localhost/wp-admin/admin-ajax.php,36,0,0
+1732731036228,230,SC00STP01_select_and_add_first_object - tables,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-3,,true,,21644,1872,5,5,null,214,0,0
+1732731036444,22,SC00STP01_00_config_table,200,OK,SC00 1-4,text,true,,0,0,5,5,null,0,0,0
+1732731036428,81,SC00STP01_01_01_open_a_tables/products//kitchen-table2,200,OK,SC00 1-5,text,true,,10728,555,5,5,http://localhost/products/kitchen-table2,81,0,0
+1732731036510,27,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-5,text,true,,0,0,5,5,null,0,0,0
+1732731036466,86,SC00STP01_01_00_navigate_tables,200,OK,SC00 1-4,text,true,,10252,532,5,5,http://localhost/tables,85,0,0
+1732731036537,29,SC00STP01_01_03_add_tables/wp-admin/admin-ajax.php,200,OK,SC00 1-5,text,true,,722,784,5,5,http://localhost/wp-admin/admin-ajax.php,29,0,0
+1732731036335,230,SC00STP01_select_and_add_first_object - tables,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-5,,true,,21702,1871,5,5,null,193,1,0
+1732731036552,66,SC00STP01_01_01_open_a_tables/products//kitchen-table1,200,OK,SC00 1-4,text,true,,10684,555,5,5,http://localhost/products/kitchen-table1,66,0,0
+1732731036619,6,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-4,text,true,,0,0,5,5,null,0,0,0
+1732731036626,31,SC00STP01_01_03_add_tables/wp-admin/admin-ajax.php,200,OK,SC00 1-4,text,true,,722,784,5,5,http://localhost/wp-admin/admin-ajax.php,31,0,0
+1732731036443,211,SC00STP01_select_and_add_first_object - tables,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-4,,true,,21658,1871,5,5,null,182,3,0
+1732731037398,20,SC00STP02_00_00_config chair,200,OK,SC00 1-1,text,true,,0,0,5,5,null,0,0,0
+1732731037419,23,SC00STP02_00_00_config chair,200,OK,SC00 1-2,text,true,,0,0,5,5,null,0,0,0
+1732731037464,10,SC00STP02_00_00_config chair,200,OK,SC00 1-3,text,true,,0,0,5,5,null,0,0,0
+1732731037419,124,SC00STP01_01_00_navigate_chairs,200,OK,SC00 1-1,text,true,,9650,532,5,5,http://localhost/chairs,124,0,0
+1732731037443,115,SC00STP01_01_00_navigate_chairs,200,OK,SC00 1-2,text,true,,9650,532,5,5,http://localhost/chairs,114,0,0
+1732731037475,98,SC00STP01_01_00_navigate_chairs,200,OK,SC00 1-3,text,true,,9650,532,5,5,http://localhost/chairs,98,0,0
+1732731037579,10,SC00STP02_00_00_config chair,200,OK,SC00 1-5,text,true,,0,0,5,5,null,0,0,0
+1732731037543,90,SC00STP01_01_01_open_a_chairs/products//ancient-chair6,200,OK,SC00 1-1,text,true,,10808,555,5,5,http://localhost/products/ancient-chair6,90,0,0
+1732731037634,12,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-1,text,true,,0,0,5,5,null,0,0,0
+1732731037558,92,SC00STP01_01_01_open_a_chairs/products//ancient-chair5,200,OK,SC00 1-2,text,true,,10686,555,5,5,http://localhost/products/ancient-chair5,91,0,0
+1732731037650,14,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-2,text,true,,0,0,5,5,null,0,0,0
+1732731037574,106,SC00STP01_01_01_open_a_chairs/products//ancient-chair4,200,OK,SC00 1-3,text,true,,10768,555,5,5,http://localhost/products/ancient-chair4,106,0,0
+1732731037681,15,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-3,text,true,,0,0,5,5,null,0,0,0
+1732731037647,58,SC00STP01_01_03_add_chairs/wp-admin/admin-ajax.php,200,OK,SC00 1-1,text,true,,722,784,5,5,http://localhost/wp-admin/admin-ajax.php,58,0,0
+1732731037589,116,SC00STP01_01_00_navigate_chairs,200,OK,SC00 1-5,text,true,,9650,532,5,5,http://localhost/chairs,116,0,0
+1732731037398,304,SC00STP02_select_second_object_50/50-lamp/chair,200,"Number of samples in transaction : 6, number of failing samples : 0",SC00 1-1,,true,,21180,1871,5,5,null,272,3,0
+1732731037664,52,SC00STP01_01_03_add_chairs/wp-admin/admin-ajax.php,200,OK,SC00 1-2,text,true,,722,784,5,5,http://localhost/wp-admin/admin-ajax.php,52,0,0
+1732731037419,296,SC00STP02_select_second_object_50/50-lamp/chair,200,"Number of samples in transaction : 6, number of failing samples : 0",SC00 1-2,,true,,21058,1871,5,5,null,257,1,0
+1732731037697,39,SC00STP01_01_03_add_chairs/wp-admin/admin-ajax.php,200,OK,SC00 1-3,text,true,,722,784,5,5,http://localhost/wp-admin/admin-ajax.php,39,0,0
+1732731037464,268,SC00STP02_select_second_object_50/50-lamp/chair,200,"Number of samples in transaction : 6, number of failing samples : 0",SC00 1-3,,true,,21140,1871,5,5,null,243,4,0
+1732731037737,6,SC00STP02_00_00_config chair,200,OK,SC00 1-4,text,true,,0,0,5,5,null,0,0,0
+1732731037706,76,SC00STP01_01_01_open_a_chairs/products//ancient-chair3,200,OK,SC00 1-5,text,true,,10872,555,5,5,http://localhost/products/ancient-chair3,76,0,0
+1732731037782,9,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-5,text,true,,0,0,5,5,null,0,0,0
+1732731037743,79,SC00STP01_01_00_navigate_chairs,200,OK,SC00 1-4,text,true,,9650,532,5,5,http://localhost/chairs,79,0,0
+1732731037792,31,SC00STP01_01_03_add_chairs/wp-admin/admin-ajax.php,200,OK,SC00 1-5,text,true,,722,784,5,5,http://localhost/wp-admin/admin-ajax.php,31,0,0
+1732731037579,242,SC00STP02_select_second_object_50/50-lamp/chair,200,"Number of samples in transaction : 6, number of failing samples : 0",SC00 1-5,,true,,21244,1871,5,5,null,223,2,0
+1732731037822,60,SC00STP01_01_01_open_a_chairs/products//ancient-chair2,200,OK,SC00 1-4,text,true,,10805,555,5,5,http://localhost/products/ancient-chair2,60,0,0
+1732731037883,6,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-4,text,true,,0,0,5,5,null,0,0,0
+1732731037889,28,SC00STP01_01_03_add_chairs/wp-admin/admin-ajax.php,200,OK,SC00 1-4,text,true,,722,784,5,5,http://localhost/wp-admin/admin-ajax.php,28,0,0
+1732731037737,179,SC00STP02_select_second_object_50/50-lamp/chair,200,"Number of samples in transaction : 6, number of failing samples : 0",SC00 1-4,,true,,21177,1871,5,5,null,167,1,0
+1732731038718,110,SC00STP03_02_thank-you,200,OK,SC00 1-2,text,true,,8319,558,5,5,http://localhost/thank-you,110,0,0
+1732731038757,79,SC00STP03_02_thank-you,200,OK,SC00 1-1,text,true,,8319,558,5,5,http://localhost/thank-you,79,0,0
+1732731038779,66,SC00STP03_02_thank-you,200,OK,SC00 1-3,text,true,,8319,558,5,5,http://localhost/thank-you,66,0,0
+1732731038869,48,SC00STP03_02_thank-you,200,OK,SC00 1-5,text,true,,8319,558,5,5,http://localhost/thank-you,47,0,0
+1732731038921,46,SC00STP03_02_thank-you,200,OK,SC00 1-4,text,true,,8319,558,5,5,http://localhost/thank-you,46,0,0
+1732731039880,162,SC00STP00_00_open_app,200,OK,SC00 1-1,text,true,,11393,339,5,5,http://localhost/,162,0,3
+1732731040043,1,SC00STP00_01_open_app/wp-content/,200,OK,SC00 1-1,,true,,28902,604,5,5,http://localhost/wp-content/uploads/2023/03/depositphotos_271979220-stock-photo-fashion-and-hitech-lamp-in-600x384.webp,1,0,0
+1732731039922,124,SC00STP00_00_open_app,200,OK,SC00 1-3,text,true,,11393,339,5,5,http://localhost/,124,0,3
+1732731039917,130,SC00STP00_00_open_app,200,OK,SC00 1-2,text,true,,11393,339,5,5,http://localhost/,130,0,4
+1732731040046,2,SC00STP00_01_open_app/wp-content/,200,OK,SC00 1-3,,true,,28902,604,5,5,http://localhost/wp-content/uploads/2023/03/depositphotos_271979220-stock-photo-fashion-and-hitech-lamp-in-600x384.webp,2,0,0
+1732731040048,1,SC00STP00_01_open_app/wp-content/,200,OK,SC00 1-2,,true,,28902,604,5,5,http://localhost/wp-content/uploads/2023/03/depositphotos_271979220-stock-photo-fashion-and-hitech-lamp-in-600x384.webp,1,0,0
+1732731039988,95,SC00STP00_00_open_app,200,OK,SC00 1-5,text,true,,11393,339,5,5,http://localhost/,95,0,1
+1732731040084,1,SC00STP00_01_open_app/wp-content/,200,OK,SC00 1-5,,true,,28902,604,5,5,http://localhost/wp-content/uploads/2023/03/depositphotos_271979220-stock-photo-fashion-and-hitech-lamp-in-600x384.webp,1,0,0
+1732731040042,84,SC00STP00_00_open_app,200,OK,SC00 1-4,text,true,,11393,339,5,5,http://localhost/,84,0,1
+1732731040126,1,SC00STP00_01_open_app/wp-content/,200,OK,SC00 1-4,,true,,28902,604,5,5,http://localhost/wp-content/uploads/2023/03/depositphotos_271979220-stock-photo-fashion-and-hitech-lamp-in-600x384.webp,1,0,0
+1732731041087,25,SC00STP01_00_config_table,200,OK,SC00 1-2,text,true,,0,0,5,5,null,0,0,0
+1732731041102,26,SC00STP01_00_config_table,200,OK,SC00 1-1,text,true,,0,0,5,5,null,0,0,0
+1732731041135,16,SC00STP01_00_config_table,200,OK,SC00 1-5,text,true,,0,0,5,5,null,0,0,0
+1732731041140,18,SC00STP01_00_config_table,200,OK,SC00 1-3,text,true,,0,0,5,5,null,0,0,0
+1732731041190,8,SC00STP01_00_config_table,200,OK,SC00 1-4,text,true,,0,0,5,5,null,0,0,0
+1732731041113,135,SC00STP01_01_00_navigate_tables,200,OK,SC00 1-2,text,true,,10252,532,5,5,http://localhost/tables,134,0,0
+1732731041129,125,SC00STP01_01_00_navigate_tables,200,OK,SC00 1-1,text,true,,10252,532,5,5,http://localhost/tables,125,0,0
+1732731041152,111,SC00STP01_01_00_navigate_tables,200,OK,SC00 1-5,text,true,,10252,532,5,5,http://localhost/tables,111,0,0
+1732731041159,107,SC00STP01_01_00_navigate_tables,200,OK,SC00 1-3,text,true,,10252,532,5,5,http://localhost/tables,106,0,0
+1732731041199,103,SC00STP01_01_00_navigate_tables,200,OK,SC00 1-4,text,true,,10252,532,5,5,http://localhost/tables,102,0,0
+1732731041248,97,SC00STP01_01_01_open_a_tables/products//living-room-table7,200,OK,SC00 1-2,text,true,,10660,559,5,5,http://localhost/products/living-room-table7,96,0,0
+1732731041254,97,SC00STP01_01_01_open_a_tables/products//living-room-table8,200,OK,SC00 1-1,text,true,,10742,559,5,5,http://localhost/products/living-room-table8,97,0,0
+1732731041263,94,SC00STP01_01_01_open_a_tables/products//living-room-table5,200,OK,SC00 1-5,text,true,,10730,559,5,5,http://localhost/products/living-room-table5,94,0,0
+1732731041345,15,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-2,text,true,,0,0,5,5,null,0,0,0
+1732731041351,14,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-1,text,true,,0,0,5,5,null,0,0,0
+1732731041266,100,SC00STP01_01_01_open_a_tables/products//living-room-table6,200,OK,SC00 1-3,text,true,,10680,559,5,5,http://localhost/products/living-room-table6,99,0,0
+1732731041357,16,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-5,text,true,,0,0,5,5,null,0,0,0
+1732731041366,13,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-3,text,true,,0,0,5,5,null,0,0,0
+1732731041302,94,SC00STP01_01_01_open_a_tables/products//living-room-table4,200,OK,SC00 1-4,text,true,,10742,559,5,5,http://localhost/products/living-room-table4,94,0,0
+1732731041360,44,SC00STP01_01_03_add_tables/wp-admin/admin-ajax.php,200,OK,SC00 1-2,text,true,,722,789,5,5,http://localhost/wp-admin/admin-ajax.php,44,0,0
+1732731041087,316,SC00STP01_select_and_add_first_object - tables,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-2,,true,,21634,1880,5,5,null,274,1,0
+1732731041365,41,SC00STP01_01_03_add_tables/wp-admin/admin-ajax.php,200,OK,SC00 1-1,text,true,,722,789,5,5,http://localhost/wp-admin/admin-ajax.php,41,0,0
+1732731041102,303,SC00STP01_select_and_add_first_object - tables,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-1,,true,,21716,1880,5,5,null,263,1,0
+1732731041397,12,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-4,text,true,,0,0,5,5,null,0,0,0
+1732731041373,40,SC00STP01_01_03_add_tables/wp-admin/admin-ajax.php,200,OK,SC00 1-5,text,true,,722,789,5,5,http://localhost/wp-admin/admin-ajax.php,40,0,0
+1732731041135,277,SC00STP01_select_and_add_first_object - tables,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-5,,true,,21704,1880,5,5,null,245,1,0
+1732731041380,36,SC00STP01_01_03_add_tables/wp-admin/admin-ajax.php,200,OK,SC00 1-3,text,true,,722,789,5,5,http://localhost/wp-admin/admin-ajax.php,36,0,0
+1732731041140,274,SC00STP01_select_and_add_first_object - tables,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-3,,true,,21654,1880,5,5,null,241,2,0
+1732731041409,28,SC00STP01_01_03_add_tables/wp-admin/admin-ajax.php,200,OK,SC00 1-4,text,true,,722,789,5,5,http://localhost/wp-admin/admin-ajax.php,28,0,0
+1732731041190,245,SC00STP01_select_and_add_first_object - tables,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-4,,true,,21716,1880,5,5,null,224,2,0
+1732731042423,6,SC00STP02_00_01_config lamp,200,OK,SC00 1-3,text,true,,0,0,5,5,null,0,0,0
+1732731042449,7,SC00STP02_00_01_config lamp,200,OK,SC00 1-2,text,true,,0,0,5,5,null,0,0,0
+1732731042467,8,SC00STP02_00_01_config lamp,200,OK,SC00 1-4,text,true,,0,0,5,5,null,0,0,0
+1732731042496,13,SC00STP02_00_01_config lamp,200,OK,SC00 1-5,text,true,,0,0,5,5,null,0,0,0
+1732731042503,16,SC00STP02_00_01_config lamp,200,OK,SC00 1-1,text,true,,0,0,5,5,null,0,0,0
+1732731042429,128,SC00STP01_01_00_navigate_lamps,200,OK,SC00 1-3,text,true,,9578,531,5,5,http://localhost/lamps,128,0,0
+1732731042456,141,SC00STP01_01_00_navigate_lamps,200,OK,SC00 1-2,text,true,,9578,531,5,5,http://localhost/lamps,140,0,0
+1732731042475,145,SC00STP01_01_00_navigate_lamps,200,OK,SC00 1-4,text,true,,9578,531,5,5,http://localhost/lamps,145,0,0
+1732731042509,140,SC00STP01_01_00_navigate_lamps,200,OK,SC00 1-5,text,true,,9578,531,5,5,http://localhost/lamps,139,0,0
+1732731042519,141,SC00STP01_01_00_navigate_lamps,200,OK,SC00 1-1,text,true,,9578,531,5,5,http://localhost/lamps,141,0,0
+1732731042557,116,SC00STP01_01_01_open_a_lamps/products//retro-lamp7,200,OK,SC00 1-3,text,true,,10707,551,5,5,http://localhost/products/retro-lamp7,116,0,0
+1732731042673,14,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-3,text,true,,0,0,5,5,null,0,0,0
+1732731042597,102,SC00STP01_01_01_open_a_lamps/products//retro-lamp8,200,OK,SC00 1-2,text,true,,10675,551,5,5,http://localhost/products/retro-lamp8,102,0,0
+1732731042699,15,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-2,text,true,,0,0,5,5,null,0,0,0
+1732731042620,105,SC00STP01_01_01_open_a_lamps/products//retro-lamp5,200,OK,SC00 1-4,text,true,,10751,551,5,5,http://localhost/products/retro-lamp5,105,0,0
+1732731042687,46,SC00STP01_01_03_add_lamps/wp-admin/admin-ajax.php,200,OK,SC00 1-3,text,true,,722,782,5,5,http://localhost/wp-admin/admin-ajax.php,46,0,0
+1732731042423,310,SC00STP02_select_second_object_50/50-lamp/chair,200,"Number of samples in transaction : 6, number of failing samples : 0",SC00 1-3,,true,,21007,1864,5,5,null,290,1,0
+1732731042726,12,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-4,text,true,,0,0,5,5,null,0,0,0
+1732731042649,102,SC00STP01_01_01_open_a_lamps/products//retro-lamp6,200,OK,SC00 1-5,text,true,,10623,551,5,5,http://localhost/products/retro-lamp6,102,0,0
+1732731042714,41,SC00STP01_01_03_add_lamps/wp-admin/admin-ajax.php,200,OK,SC00 1-2,text,true,,722,782,5,5,http://localhost/wp-admin/admin-ajax.php,41,0,0
+1732731042449,306,SC00STP02_select_second_object_50/50-lamp/chair,200,"Number of samples in transaction : 6, number of failing samples : 0",SC00 1-2,,true,,20975,1864,5,5,null,283,0,0
+1732731042660,98,SC00STP01_01_01_open_a_lamps/products//hi-tech-lamp1,200,OK,SC00 1-1,text,true,,10715,553,5,5,http://localhost/products/hi-tech-lamp1,98,0,0
+1732731042751,10,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-5,text,true,,0,0,5,5,null,0,0,0
+1732731042758,12,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-1,text,true,,0,0,5,5,null,0,0,0
+1732731042738,39,SC00STP01_01_03_add_lamps/wp-admin/admin-ajax.php,200,OK,SC00 1-4,text,true,,722,782,5,5,http://localhost/wp-admin/admin-ajax.php,39,0,0
+1732731042467,309,SC00STP02_select_second_object_50/50-lamp/chair,200,"Number of samples in transaction : 6, number of failing samples : 0",SC00 1-4,,true,,21051,1864,5,5,null,289,1,0
+1732731042761,35,SC00STP01_01_03_add_lamps/wp-admin/admin-ajax.php,200,OK,SC00 1-5,text,true,,722,782,5,5,http://localhost/wp-admin/admin-ajax.php,35,0,0
+1732731042496,300,SC00STP02_select_second_object_50/50-lamp/chair,200,"Number of samples in transaction : 6, number of failing samples : 0",SC00 1-5,,true,,20923,1864,5,5,null,276,0,0
+1732731042770,31,SC00STP01_01_03_add_lamps/wp-admin/admin-ajax.php,200,OK,SC00 1-1,text,true,,722,784,5,5,http://localhost/wp-admin/admin-ajax.php,31,0,0
+1732731042503,298,SC00STP02_select_second_object_50/50-lamp/chair,200,"Number of samples in transaction : 6, number of failing samples : 0",SC00 1-1,,true,,21015,1868,5,5,null,270,0,0
+1732731043825,82,checkout_00,200,OK,SC00 1-5,text,true,,13228,542,5,5,http://localhost/checkout,82,0,0
+1732731043804,104,checkout_00,200,OK,SC00 1-4,text,true,,13231,542,5,5,http://localhost/checkout,104,0,0
+1732731043812,100,checkout_00,200,OK,SC00 1-3,text,true,,13230,542,5,5,http://localhost/checkout,100,0,0
+1732731043812,101,checkout_00,200,OK,SC00 1-2,text,true,,13228,542,5,5,http://localhost/checkout,101,0,0
+1732731043850,88,checkout_00,200,OK,SC00 1-1,text,true,,13230,542,5,5,http://localhost/checkout,88,0,0
+1732731043907,44,SC00STP03_00_01_00_fill_the_info/wp-admin/admin-ajax.php-919,200,OK,SC00 1-5,text,true,,1037,661,5,5,http://localhost/wp-admin/admin-ajax.php,44,0,0
+1732731043908,43,SC00STP03_00_01_00_fill_the_info/wp-admin/admin-ajax.php-919,200,OK,SC00 1-4,text,true,,1037,661,5,5,http://localhost/wp-admin/admin-ajax.php,43,0,0
+1732731043913,42,SC00STP03_00_01_00_fill_the_info/wp-admin/admin-ajax.php-919,200,OK,SC00 1-2,text,true,,1037,661,5,5,http://localhost/wp-admin/admin-ajax.php,42,0,0
+1732731043912,45,SC00STP03_00_01_00_fill_the_info/wp-admin/admin-ajax.php-919,200,OK,SC00 1-3,text,true,,1037,661,5,5,http://localhost/wp-admin/admin-ajax.php,45,0,0
+1732731043938,43,SC00STP03_00_01_00_fill_the_info/wp-admin/admin-ajax.php-919,200,OK,SC00 1-1,text,true,,1037,661,5,5,http://localhost/wp-admin/admin-ajax.php,43,0,0
+1732731043951,148,SC00STP03_00_01_01_checkout,200,OK,SC00 1-4,text,true,,8827,4547,5,5,http://localhost/thank-you,86,0,0
+1732731043951,86,SC00STP03_00_01_01_checkout-0,302,Found,SC00 1-4,text,true,,508,3978,5,5,http://localhost/checkout,86,0,0
+1732731044037,62,SC00STP03_00_01_01_checkout-1,200,OK,SC00 1-4,text,true,,8319,569,5,5,http://localhost/thank-you,62,0,0
+1732731043951,152,SC00STP03_00_01_01_checkout,200,OK,SC00 1-5,text,true,,8827,4753,5,5,http://localhost/thank-you,87,0,0
+1732731043951,87,SC00STP03_00_01_01_checkout-0,302,Found,SC00 1-5,text,true,,508,4184,5,5,http://localhost/checkout,87,0,0
+1732731044038,65,SC00STP03_00_01_01_checkout-1,200,OK,SC00 1-5,text,true,,8319,569,5,5,http://localhost/thank-you,65,0,0
+1732731043955,148,SC00STP03_00_01_01_checkout,200,OK,SC00 1-2,text,true,,8827,4686,5,5,http://localhost/thank-you,89,0,0
+1732731043955,89,SC00STP03_00_01_01_checkout-0,302,Found,SC00 1-2,text,true,,508,4117,5,5,http://localhost/checkout,89,0,0
+1732731044044,59,SC00STP03_00_01_01_checkout-1,200,OK,SC00 1-2,text,true,,8319,569,5,5,http://localhost/thank-you,59,0,0
+1732731043958,152,SC00STP03_00_01_01_checkout,200,OK,SC00 1-3,text,true,,8827,4753,5,5,http://localhost/thank-you,84,0,0
+1732731043958,84,SC00STP03_00_01_01_checkout-0,302,Found,SC00 1-3,text,true,,508,4184,5,5,http://localhost/checkout,84,0,0
+1732731044042,68,SC00STP03_00_01_01_checkout-1,200,OK,SC00 1-3,text,true,,8319,569,5,5,http://localhost/thank-you,67,0,0
+1732731043981,146,SC00STP03_00_01_01_checkout,200,OK,SC00 1-1,text,true,,8827,4551,5,5,http://localhost/thank-you,85,0,0
+1732731043981,85,SC00STP03_00_01_01_checkout-0,302,Found,SC00 1-1,text,true,,508,3982,5,5,http://localhost/checkout,85,0,0
+1732731044066,61,SC00STP03_00_01_01_checkout-1,200,OK,SC00 1-1,text,true,,8319,569,5,5,http://localhost/thank-you,61,0,0
+1732731044100,63,thank-you-921,200,OK,SC00 1-4,text,true,,8319,543,5,5,http://localhost/thank-you,62,0,0
+1732731044104,59,thank-you-921,200,OK,SC00 1-2,text,true,,8319,543,5,5,http://localhost/thank-you,58,0,0
+1732731043811,350,SC00STP03_01_checkout,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-2,,true,,31411,6432,5,5,null,290,2,0
+1732731043804,358,SC00STP03_01_checkout,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-4,,true,,31414,6293,5,5,null,295,1,0
+1732731044104,59,thank-you-921,200,OK,SC00 1-5,text,true,,8319,543,5,5,http://localhost/thank-you,59,0,0
+1732731043824,337,SC00STP03_01_checkout,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-5,,true,,31411,6499,5,5,null,272,2,0
+1732731044110,65,thank-you-921,200,OK,SC00 1-3,text,true,,8319,543,5,5,http://localhost/thank-you,64,0,0
+1732731043812,362,SC00STP03_01_checkout,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-3,,true,,31413,6499,5,5,null,293,1,0
+1732731044128,54,thank-you-921,200,OK,SC00 1-1,text,true,,8319,543,5,5,http://localhost/thank-you,54,0,0
+1732731043849,331,SC00STP03_01_checkout,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-1,,true,,31413,6297,5,5,null,270,2,0
+1732731045175,189,SC00STP00_00_open_app,200,OK,SC00 1-4,text,true,,11393,339,5,5,http://localhost/,189,0,2
+1732731045364,1,SC00STP00_01_open_app/wp-content/,200,OK,SC00 1-4,,true,,28902,604,5,5,http://localhost/wp-content/uploads/2023/03/depositphotos_271979220-stock-photo-fashion-and-hitech-lamp-in-600x384.webp,1,0,0
+1732731045205,166,SC00STP00_00_open_app,200,OK,SC00 1-2,text,true,,11393,339,5,5,http://localhost/,166,0,3
+1732731045200,172,SC00STP00_00_open_app,200,OK,SC00 1-5,text,true,,11393,339,5,5,http://localhost/,172,0,2
+1732731045371,2,SC00STP00_01_open_app/wp-content/,200,OK,SC00 1-2,,true,,28902,604,5,5,http://localhost/wp-content/uploads/2023/03/depositphotos_271979220-stock-photo-fashion-and-hitech-lamp-in-600x384.webp,2,0,0
+1732731045373,1,SC00STP00_01_open_app/wp-content/,200,OK,SC00 1-5,,true,,28902,604,5,5,http://localhost/wp-content/uploads/2023/03/depositphotos_271979220-stock-photo-fashion-and-hitech-lamp-in-600x384.webp,1,0,0
+1732731045237,158,SC00STP00_00_open_app,200,OK,SC00 1-3,text,true,,11393,339,5,5,http://localhost/,157,0,1
+1732731045395,2,SC00STP00_01_open_app/wp-content/,200,OK,SC00 1-3,,true,,28902,604,5,5,http://localhost/wp-content/uploads/2023/03/depositphotos_271979220-stock-photo-fashion-and-hitech-lamp-in-600x384.webp,1,0,0
+1732731045246,160,SC00STP00_00_open_app,200,OK,SC00 1-1,text,true,,11393,339,5,5,http://localhost/,160,0,2
+1732731045407,0,SC00STP00_01_open_app/wp-content/,200,OK,SC00 1-1,,true,,28902,604,5,5,http://localhost/wp-content/uploads/2023/03/depositphotos_271979220-stock-photo-fashion-and-hitech-lamp-in-600x384.webp,0,0,0
+1732731046374,24,SC00STP01_00_config_table,200,OK,SC00 1-4,text,true,,0,0,5,5,null,0,0,0
+1732731046395,20,SC00STP01_00_config_table,200,OK,SC00 1-2,text,true,,0,0,5,5,null,0,0,0
+1732731046423,15,SC00STP01_00_config_table,200,OK,SC00 1-1,text,true,,0,0,5,5,null,0,0,0
+1732731046457,9,SC00STP01_00_config_table,200,OK,SC00 1-3,text,true,,0,0,5,5,null,0,0,0
+1732731046473,8,SC00STP01_00_config_table,200,OK,SC00 1-5,text,true,,0,0,5,5,null,0,0,0
+1732731046399,129,SC00STP01_01_00_navigate_tables,200,OK,SC00 1-4,text,true,,10252,532,5,5,http://localhost/tables,129,0,0
+1732731046415,118,SC00STP01_01_00_navigate_tables,200,OK,SC00 1-2,text,true,,10252,532,5,5,http://localhost/tables,118,0,0
+1732731046438,112,SC00STP01_01_00_navigate_tables,200,OK,SC00 1-1,text,true,,10252,532,5,5,http://localhost/tables,112,0,0
+1732731046466,107,SC00STP01_01_00_navigate_tables,200,OK,SC00 1-3,text,true,,10252,532,5,5,http://localhost/tables,107,0,0
+1732731046481,109,SC00STP01_01_00_navigate_tables,200,OK,SC00 1-5,text,true,,10252,532,5,5,http://localhost/tables,108,0,0
+1732731046528,101,SC00STP01_01_01_open_a_tables/products//living-room-table3,200,OK,SC00 1-4,text,true,,10668,559,5,5,http://localhost/products/living-room-table3,101,0,0
+1732731046534,96,SC00STP01_01_01_open_a_tables/products//table1,200,OK,SC00 1-2,text,true,,10562,547,5,5,http://localhost/products/table1,96,0,0
+1732731046630,12,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-4,text,true,,0,0,5,5,null,0,0,0
+1732731046630,12,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-2,text,true,,0,0,5,5,null,0,0,0
+1732731046550,97,SC00STP01_01_01_open_a_tables/products//kitchen-table7,200,OK,SC00 1-1,text,true,,10652,555,5,5,http://localhost/products/kitchen-table7,96,0,0
+1732731046647,14,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-1,text,true,,0,0,5,5,null,0,0,0
+1732731046573,97,SC00STP01_01_01_open_a_tables/products//kitchen-table8,200,OK,SC00 1-3,text,true,,10735,555,5,5,http://localhost/products/kitchen-table8,96,0,0
+1732731046642,41,SC00STP01_01_03_add_tables/wp-admin/admin-ajax.php,200,OK,SC00 1-4,text,true,,722,789,5,5,http://localhost/wp-admin/admin-ajax.php,41,0,0
+1732731046670,13,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-3,text,true,,0,0,5,5,null,0,0,0
+1732731046374,307,SC00STP01_select_and_add_first_object - tables,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-4,,true,,21642,1880,5,5,null,271,2,0
+1732731046642,43,SC00STP01_01_03_add_tables/wp-admin/admin-ajax.php,200,OK,SC00 1-2,text,true,,722,776,5,5,http://localhost/wp-admin/admin-ajax.php,43,0,0
+1732731046395,289,SC00STP01_select_and_add_first_object - tables,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-2,,true,,21536,1855,5,5,null,257,2,0
+1732731046590,99,SC00STP01_01_01_open_a_tables/products//living-room-table2,200,OK,SC00 1-5,text,true,,10785,559,5,5,http://localhost/products/living-room-table2,99,0,0
+1732731046689,9,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-5,text,true,,0,0,5,5,null,0,0,0
+1732731046661,38,SC00STP01_01_03_add_tables/wp-admin/admin-ajax.php,200,OK,SC00 1-1,text,true,,722,785,5,5,http://localhost/wp-admin/admin-ajax.php,38,0,0
+1732731046423,276,SC00STP01_select_and_add_first_object - tables,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-1,,true,,21626,1872,5,5,null,246,1,0
+1732731046683,30,SC00STP01_01_03_add_tables/wp-admin/admin-ajax.php,200,OK,SC00 1-3,text,true,,722,785,5,5,http://localhost/wp-admin/admin-ajax.php,30,0,0
+1732731046457,256,SC00STP01_select_and_add_first_object - tables,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-3,,true,,21709,1872,5,5,null,233,2,0
+1732731046698,28,SC00STP01_01_03_add_tables/wp-admin/admin-ajax.php,200,OK,SC00 1-5,text,true,,722,789,5,5,http://localhost/wp-admin/admin-ajax.php,28,0,0
+1732731046473,253,SC00STP01_select_and_add_first_object - tables,200,"Number of samples in transaction : 5, number of failing samples : 0",SC00 1-5,,true,,21759,1880,5,5,null,235,1,0
+1732731047690,9,SC00STP02_00_00_config chair,200,OK,SC00 1-2,text,true,,0,0,5,5,null,0,0,0
+1732731047730,7,SC00STP02_00_00_config chair,200,OK,SC00 1-5,text,true,,0,0,5,5,null,0,0,0
+1732731047739,7,SC00STP02_00_00_config chair,200,OK,SC00 1-3,text,true,,0,0,5,5,null,0,0,0
+1732731047748,9,SC00STP02_00_00_config chair,200,OK,SC00 1-4,text,true,,0,0,5,5,null,0,0,0
+1732731047796,9,SC00STP02_00_00_config chair,200,OK,SC00 1-1,text,true,,0,0,5,5,null,0,0,0
+1732731047699,116,SC00STP01_01_00_navigate_chairs,200,OK,SC00 1-2,text,true,,9650,532,5,5,http://localhost/chairs,116,0,0
+1732731047737,109,SC00STP01_01_00_navigate_chairs,200,OK,SC00 1-5,text,true,,9650,532,5,5,http://localhost/chairs,109,0,0
+1732731047746,112,SC00STP01_01_00_navigate_chairs,200,OK,SC00 1-3,text,true,,9650,532,5,5,http://localhost/chairs,111,0,0
+1732731047758,109,SC00STP01_01_00_navigate_chairs,200,OK,SC00 1-4,text,true,,9650,532,5,5,http://localhost/chairs,109,0,0
+1732731047805,110,SC00STP01_01_00_navigate_chairs,200,OK,SC00 1-1,text,true,,9650,532,5,5,http://localhost/chairs,109,0,0
+1732731047815,105,SC00STP01_01_01_open_a_chairs/products//modern-chair2,200,OK,SC00 1-2,text,true,,10776,554,5,5,http://localhost/products/modern-chair2,105,0,0
+1732731047921,12,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-2,text,true,,0,0,5,5,null,0,0,0
+1732731047846,106,SC00STP01_01_01_open_a_chairs/products//modern-chair3,200,OK,SC00 1-5,text,true,,10776,554,5,5,http://localhost/products/modern-chair3,106,0,0
+1732731047858,105,SC00STP01_01_01_open_a_chairs/products//modern-chair1,200,OK,SC00 1-3,text,true,,10828,554,5,5,http://localhost/products/modern-chair1,105,0,0
+1732731047953,14,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-5,text,true,,0,0,5,5,null,0,0,0
+1732731047867,103,SC00STP01_01_01_open_a_chairs/products//modern-chair4,200,OK,SC00 1-4,text,true,,10914,554,5,5,http://localhost/products/modern-chair4,103,0,0
+1732731047964,13,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-3,text,true,,0,0,5,5,null,0,0,0
+1732731047933,51,SC00STP01_01_03_add_chairs/wp-admin/admin-ajax.php,200,OK,SC00 1-2,text,true,,722,783,5,5,http://localhost/wp-admin/admin-ajax.php,51,0,0
+1732731047690,293,SC00STP02_select_second_object_50/50-lamp/chair,200,"Number of samples in transaction : 6, number of failing samples : 0",SC00 1-2,,true,,21148,1869,5,5,null,272,1,0
+1732731047971,14,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-4,text,true,,0,0,5,5,null,0,0,0
+1732731047915,72,SC00STP01_01_01_open_a_chairs/products//ancient-chair8,404,Not Found,SC00 1-1,text,false,,32967,555,5,5,http://localhost/products/ancient-chair8,52,0,0
+1732731047987,13,SC00STP01_01_02_config_cart_order,200,OK,SC00 1-1,text,true,,0,0,5,5,null,0,0,0
+1732731047967,46,SC00STP01_01_03_add_chairs/wp-admin/admin-ajax.php,200,OK,SC00 1-5,text,true,,722,783,5,5,http://localhost/wp-admin/admin-ajax.php,46,0,0
+1732731047730,282,SC00STP02_select_second_object_50/50-lamp/chair,200,"Number of samples in transaction : 6, number of failing samples : 0",SC00 1-5,,true,,21148,1869,5,5,null,261,1,0
+1732731047986,36,SC00STP01_01_03_add_chairs/wp-admin/admin-ajax.php,200,OK,SC00 1-4,text,true,,722,783,5,5,http://localhost/wp-admin/admin-ajax.php,36,0,0
+1732731047748,271,SC00STP02_select_second_object_50/50-lamp/chair,200,"Number of samples in transaction : 6, number of failing samples : 0",SC00 1-4,,true,,21286,1869,5,5,null,248,4,0
+1732731047978,46,SC00STP01_01_03_add_chairs/wp-admin/admin-ajax.php,200,OK,SC00 1-3,text,true,,722,783,5,5,http://localhost/wp-admin/admin-ajax.php,46,0,0
+1732731047739,283,SC00STP02_select_second_object_50/50-lamp/chair,200,"Number of samples in transaction : 6, number of failing samples : 0",SC00 1-3,,true,,21200,1869,5,5,null,262,3,0
+1732731048000,38,SC00STP01_01_03_add_chairs/wp-admin/admin-ajax.php,200,OK,SC00 1-1,text,true,,722,786,5,5,http://localhost/wp-admin/admin-ajax.php,38,0,0
+1732731047796,242,SC00STP02_select_second_object_50/50-lamp/chair,,"Number of samples in transaction : 6, number of failing samples : 1",SC00 1-1,,false,,43339,1873,5,5,null,199,0,0
+1732731049025,87,SC00STP03_00_00_00_navigate_to_the_cart/cart,200,OK,SC00 1-5,text,true,,9027,552,5,5,http://localhost/cart,87,0,0
+1732731049034,78,SC00STP03_00_00_00_navigate_to_the_cart/cart,200,OK,SC00 1-2,text,true,,9011,552,5,5,http://localhost/cart,78,0,0
+1732731049045,76,SC00STP03_00_00_00_navigate_to_the_cart/cart,200,OK,SC00 1-4,text,true,,9030,552,5,5,http://localhost/cart,76,0,0
+1732731049053,77,SC00STP03_00_00_00_navigate_to_the_cart/cart,200,OK,SC00 1-3,text,true,,9024,552,5,5,http://localhost/cart,76,0,0
+1732731049131,72,SC00STP03_00_00_00_navigate_to_the_cart/cart,200,OK,SC00 1-1,text,true,,8963,553,5,5,http://localhost/cart,71,0,0
+1732731049113,91,SC00STP03_00_00_01_place_an_order/checkout,200,OK,SC00 1-2,text,true,,13231,813,5,5,http://localhost/checkout,91,0,0
+1732731049113,94,SC00STP03_00_00_01_place_an_order/checkout,200,OK,SC00 1-5,text,true,,13228,817,5,5,http://localhost/checkout,93,0,0
+1732731049122,87,SC00STP03_00_00_01_place_an_order/checkout,200,OK,SC00 1-4,text,true,,13228,813,5,5,http://localhost/checkout,87,0,0
+1732731049130,89,SC00STP03_00_00_01_place_an_order/checkout,200,OK,SC00 1-3,text,true,,13230,813,5,5,http://localhost/checkout,89,0,0
+1732731049205,41,SC00STP03_00_01_00_fill_the_info/wp-admin/admin-ajax.php-919,200,OK,SC00 1-2,text,true,,1037,661,5,5,http://localhost/wp-admin/admin-ajax.php,41,0,0
+1732731049208,38,SC00STP03_00_01_00_fill_the_info/wp-admin/admin-ajax.php-919,200,OK,SC00 1-5,text,true,,1037,661,5,5,http://localhost/wp-admin/admin-ajax.php,38,0,0
+1732731049210,39,SC00STP03_00_01_00_fill_the_info/wp-admin/admin-ajax.php-919,200,OK,SC00 1-4,text,true,,1037,661,5,5,http://localhost/wp-admin/admin-ajax.php,39,0,0
+1732731049219,43,SC00STP03_00_01_00_fill_the_info/wp-admin/admin-ajax.php-919,200,OK,SC00 1-3,text,true,,1037,661,5,5,http://localhost/wp-admin/admin-ajax.php,43,0,0
+1732731049203,86,SC00STP03_00_00_01_place_an_order/checkout,200,OK,SC00 1-1,text,true,,13185,853,5,5,http://localhost/checkout,86,0,0
+1732731049290,37,SC00STP03_00_01_00_fill_the_info/wp-admin/admin-ajax.php-919,200,OK,SC00 1-1,text,true,,1037,661,5,5,http://localhost/wp-admin/admin-ajax.php,37,0,0
+1732731049249,171,SC00STP03_00_01_01_checkout,200,OK,SC00 1-4,text,true,,8827,4652,5,5,http://localhost/thank-you,109,0,0
+1732731049249,109,SC00STP03_00_01_01_checkout-0,302,Found,SC00 1-4,text,true,,508,4083,5,5,http://localhost/checkout,109,0,0
+1732731049358,62,SC00STP03_00_01_01_checkout-1,200,OK,SC00 1-4,text,true,,8319,569,5,5,http://localhost/thank-you,62,0,0
+1732731049246,174,SC00STP03_00_01_01_checkout,200,OK,SC00 1-2,text,true,,8827,4549,5,5,http://localhost/thank-you,111,0,0
+1732731049246,111,SC00STP03_00_01_01_checkout-0,302,Found,SC00 1-2,text,true,,508,3980,5,5,http://localhost/checkout,111,0,0
+1732731049357,63,SC00STP03_00_01_01_checkout-1,200,OK,SC00 1-2,text,true,,8319,569,5,5,http://localhost/thank-you,63,0,0
+1732731049246,180,SC00STP03_00_01_01_checkout,200,OK,SC00 1-5,text,true,,8827,4850,5,5,http://localhost/thank-you,112,0,0
+1732731049246,112,SC00STP03_00_01_01_checkout-0,302,Found,SC00 1-5,text,true,,508,4281,5,5,http://localhost/checkout,112,0,0
+1732731049358,68,SC00STP03_00_01_01_checkout-1,200,OK,SC00 1-5,text,true,,8319,569,5,5,http://localhost/thank-you,68,0,0
+1732731049262,166,SC00STP03_00_01_01_checkout,200,OK,SC00 1-3,text,true,,8827,4853,5,5,http://localhost/thank-you,103,0,0
+1732731049262,103,SC00STP03_00_01_01_checkout-0,302,Found,SC00 1-3,text,true,,508,4284,5,5,http://localhost/checkout,103,0,0
+1732731049365,63,SC00STP03_00_01_01_checkout-1,200,OK,SC00 1-3,text,true,,8319,569,5,5,http://localhost/thank-you,63,0,0
+1732731049420,59,SC00STP03_00_02_thank-you,200,OK,SC00 1-2,text,true,,8319,543,5,5,http://localhost/thank-you,59,0,0
+1732731049034,443,SC00STP03_00_check_cart,200,"Number of samples in transaction : 7, number of failing samples : 0",SC00 1-2,,true,,40425,7118,5,5,null,380,3,0
+1732731049420,64,SC00STP03_00_02_thank-you,200,OK,SC00 1-4,text,true,,8319,543,5,5,http://localhost/thank-you,64,0,0
+1732731049045,437,SC00STP03_00_check_cart,200,"Number of samples in transaction : 7, number of failing samples : 0",SC00 1-4,,true,,40441,7221,5,5,null,375,2,0
+1732731049429,58,SC00STP03_00_02_thank-you,200,OK,SC00 1-3,text,true,,8319,543,5,5,http://localhost/thank-you,58,0,0
+1732731049053,433,SC00STP03_00_check_cart,200,"Number of samples in transaction : 7, number of failing samples : 0",SC00 1-3,,true,,40437,7422,5,5,null,369,1,0
+1732731049426,65,SC00STP03_00_02_thank-you,200,OK,SC00 1-5,text,true,,8319,543,5,5,http://localhost/thank-you,65,0,0
+1732731049025,464,SC00STP03_00_check_cart,200,"Number of samples in transaction : 7, number of failing samples : 0",SC00 1-5,,true,,40438,7423,5,5,null,395,3,0
+1732731049327,166,SC00STP03_00_01_01_checkout,200,OK,SC00 1-1,text,true,,8827,4901,5,5,http://localhost/thank-you,102,0,0
+1732731049327,102,SC00STP03_00_01_01_checkout-0,302,Found,SC00 1-1,text,true,,508,4332,5,5,http://localhost/checkout,102,0,0
+1732731049430,63,SC00STP03_00_01_01_checkout-1,200,OK,SC00 1-1,text,true,,8319,569,5,5,http://localhost/thank-you,63,0,0
+1732731049493,42,SC00STP03_00_02_thank-you,200,OK,SC00 1-1,text,true,,8319,543,5,5,http://localhost/thank-you,41,0,0
+1732731049131,403,SC00STP03_00_check_cart,200,"Number of samples in transaction : 7, number of failing samples : 0",SC00 1-1,,true,,40331,7511,5,5,null,337,1,0

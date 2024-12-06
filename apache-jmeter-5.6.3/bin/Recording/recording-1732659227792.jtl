@@ -1,0 +1,1764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="169" it="0" lt="169" ct="85" ts="1732659229565" s="true" lb="/-596" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:13:49 GMT
+Via: 1.1 varnish
+Age: 3300
+X-Served-By: cache-pdk-kfty8610021-PDK
+X-Cache: HIT
+X-Cache-Hits: 5170
+X-Timer: S1732659229.357231,VS0,VE1
+Vary: Accept-Encoding
+X-Fastly-Request-ID: 183a8d001988b7cfd0c9c26af0877234e3b85525
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<httpSample t="168" it="0" lt="168" ct="84" ts="1732659234563" s="true" lb="/-597" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:13:54 GMT
+Via: 1.1 varnish
+Age: 3304
+X-Served-By: cache-pdk-kfty8610064-PDK
+X-Cache: HIT
+X-Cache-Hits: 5114
+X-Timer: S1732659234.355794,VS0,VE1
+Vary: Accept-Encoding
+X-Fastly-Request-ID: 0ddb22e6dd35be343ca41cc892c0caba7ba37268
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<httpSample t="169" it="0" lt="169" ct="85" ts="1732659239570" s="true" lb="/-598" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:13:59 GMT
+Via: 1.1 varnish
+Age: 3309
+X-Served-By: cache-pdk-kfty8610090-PDK
+X-Cache: HIT
+X-Cache-Hits: 5151
+X-Timer: S1732659239.362718,VS0,VE0
+Vary: Accept-Encoding
+X-Fastly-Request-ID: 5e5cff7d23a96fd4c0640ee3437214bcff384b97
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<httpSample t="168" it="0" lt="168" ct="84" ts="1732659244582" s="true" lb="/-599" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:14:04 GMT
+Via: 1.1 varnish
+Age: 3314
+X-Served-By: cache-pdk-kfty8610078-PDK
+X-Cache: HIT
+X-Cache-Hits: 5221
+X-Timer: S1732659244.374253,VS0,VE1
+Vary: Accept-Encoding
+X-Fastly-Request-ID: 01d01218ef8a0c0f2071e49e591d86170d9f3928
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<httpSample t="166" it="0" lt="166" ct="83" ts="1732659249580" s="true" lb="/-600" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:14:09 GMT
+Via: 1.1 varnish
+Age: 3320
+X-Served-By: cache-pdk-kfty8610073-PDK
+X-Cache: HIT
+X-Cache-Hits: 5500
+X-Timer: S1732659249.370165,VS0,VE0
+Vary: Accept-Encoding
+X-Fastly-Request-ID: 9c7b64a2637a826925f33b76fb77109917e9d7bc
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="extension.femetrics.grammarly.io:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT extension.femetrics.grammarly.io:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="173" it="0" lt="173" ct="84" ts="1732659254594" s="true" lb="/-601" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:14:14 GMT
+Via: 1.1 varnish
+Age: 3325
+X-Served-By: cache-pdk-kfty8610067-PDK
+X-Cache: HIT
+X-Cache-Hits: 5169
+X-Timer: S1732659254.386767,VS0,VE1
+Vary: Accept-Encoding
+X-Fastly-Request-ID: edb175f235d498b1965afbb05f0d54467149b8fa
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<httpSample t="167" it="0" lt="167" ct="83" ts="1732659259597" s="true" lb="/-603" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:14:19 GMT
+Via: 1.1 varnish
+Age: 3329
+X-Served-By: cache-pdk-kfty8610033-PDK
+X-Cache: HIT
+X-Cache-Hits: 5074
+X-Timer: S1732659259.388765,VS0,VE0
+Vary: Accept-Encoding
+X-Fastly-Request-ID: 093a08fcaaecf421a7c1f143052412781abd8098
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<httpSample t="167" it="0" lt="166" ct="83" ts="1732659264601" s="true" lb="/-604" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:14:24 GMT
+Via: 1.1 varnish
+Age: 3335
+X-Served-By: cache-pdk-kfty8610035-PDK
+X-Cache: HIT
+X-Cache-Hits: 5169
+X-Timer: S1732659264.392209,VS0,VE0
+Vary: Accept-Encoding
+X-Fastly-Request-ID: 29ed2d6b2f93b3697bed9565f7ebc8a5c182da9e
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<httpSample t="167" it="0" lt="167" ct="84" ts="1732659269600" s="true" lb="/-605" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:14:29 GMT
+Via: 1.1 varnish
+Age: 3340
+X-Served-By: cache-pdk-kfty8610094-PDK
+X-Cache: HIT
+X-Cache-Hits: 5234
+X-Timer: S1732659269.392262,VS0,VE0
+Vary: Accept-Encoding
+X-Fastly-Request-ID: 1f8bdcbcab11163054ca508da142456582054e72
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<httpSample t="169" it="0" lt="169" ct="85" ts="1732659274617" s="true" lb="/-606" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:14:34 GMT
+Via: 1.1 varnish
+Age: 3345
+X-Served-By: cache-pdk-kfty8610096-PDK
+X-Cache: HIT
+X-Cache-Hits: 5210
+X-Timer: S1732659274.410306,VS0,VE1
+Vary: Accept-Encoding
+X-Fastly-Request-ID: b49dee783966925702d676beb668e9c5d0d06edf
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<httpSample t="168" it="0" lt="168" ct="83" ts="1732659279626" s="true" lb="/-607" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:14:39 GMT
+Via: 1.1 varnish
+Age: 3349
+X-Served-By: cache-pdk-kfty8610050-PDK
+X-Cache: HIT
+X-Cache-Hits: 5339
+X-Timer: S1732659279.418333,VS0,VE0
+Vary: Accept-Encoding
+X-Fastly-Request-ID: f13baf69d2022983bbf7516209a4e6c835a0ebd0
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="169" it="0" lt="169" ct="85" ts="1732659284628" s="true" lb="/-608" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:14:44 GMT
+Via: 1.1 varnish
+Age: 3355
+X-Served-By: cache-pdk-kfty8610074-PDK
+X-Cache: HIT
+X-Cache-Hits: 5502
+X-Timer: S1732659284.421163,VS0,VE0
+Vary: Accept-Encoding
+X-Fastly-Request-ID: be804eef037d10cf076c107ad88d18c7167191d8
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="171" it="0" lt="171" ct="87" ts="1732659289643" s="true" lb="/-609" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:14:49 GMT
+Via: 1.1 varnish
+Age: 3360
+X-Served-By: cache-pdk-kfty8610032-PDK
+X-Cache: HIT
+X-Cache-Hits: 5160
+X-Timer: S1732659289.438762,VS0,VE1
+Vary: Accept-Encoding
+X-Fastly-Request-ID: e6b0423f25235f54280417b0988ef1246e422cf9
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<httpSample t="167" it="0" lt="167" ct="83" ts="1732659294646" s="true" lb="/-610" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:14:54 GMT
+Via: 1.1 varnish
+Age: 3364
+X-Served-By: cache-pdk-kfty8610025-PDK
+X-Cache: HIT
+X-Cache-Hits: 5283
+X-Timer: S1732659294.437659,VS0,VE0
+Vary: Accept-Encoding
+X-Fastly-Request-ID: 12c1c35d7560c5c343521314a30f056f769b2c77
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<httpSample t="168" it="0" lt="168" ct="83" ts="1732659299658" s="true" lb="/-611" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:14:59 GMT
+Via: 1.1 varnish
+Age: 3369
+X-Served-By: cache-pdk-kfty8610063-PDK
+X-Cache: HIT
+X-Cache-Hits: 5155
+X-Timer: S1732659299.450070,VS0,VE1
+Vary: Accept-Encoding
+X-Fastly-Request-ID: f7375ba5458056f8cefd8c9050a76e63c0d00c48
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<httpSample t="168" it="0" lt="168" ct="83" ts="1732659304665" s="true" lb="/-612" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:15:04 GMT
+Via: 1.1 varnish
+Age: 3374
+X-Served-By: cache-pdk-kfty8610086-PDK
+X-Cache: HIT
+X-Cache-Hits: 5596
+X-Timer: S1732659304.456695,VS0,VE1
+Vary: Accept-Encoding
+X-Fastly-Request-ID: eb17dfd4b448407703e5aea71c21f2dbfc7fc07b
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="statics.teams.cdn.office.net:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT statics.teams.cdn.office.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="statics.teams.cdn.office.net:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT statics.teams.cdn.office.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="169" it="0" lt="169" ct="85" ts="1732659309675" s="true" lb="/-613" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:15:09 GMT
+Via: 1.1 varnish
+Age: 3380
+X-Served-By: cache-pdk-kfty8610069-PDK
+X-Cache: HIT
+X-Cache-Hits: 5156
+X-Timer: S1732659309.468540,VS0,VE1
+Vary: Accept-Encoding
+X-Fastly-Request-ID: 85386fa16c20b7a9b371ea6340559ce4e330b2c3
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="statics.teams.cdn.office.net:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT statics.teams.cdn.office.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="169" it="0" lt="169" ct="85" ts="1732659314678" s="true" lb="/-614" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:15:14 GMT
+Via: 1.1 varnish
+Age: 3385
+X-Served-By: cache-pdk-kfty8610096-PDK
+X-Cache: HIT
+X-Cache-Hits: 5268
+X-Timer: S1732659314.471332,VS0,VE0
+Vary: Accept-Encoding
+X-Fastly-Request-ID: 0fd57e23b4c3549bc000d185ee257351b96392a5
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<httpSample t="170" it="0" lt="170" ct="85" ts="1732659319689" s="true" lb="/-615" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:15:19 GMT
+Via: 1.1 varnish
+Age: 3389
+X-Served-By: cache-pdk-kfty8610063-PDK
+X-Cache: HIT
+X-Cache-Hits: 5183
+X-Timer: S1732659319.482848,VS0,VE0
+Vary: Accept-Encoding
+X-Fastly-Request-ID: b34fd78b4ff65da357f77bc4810694a8b6a7bc81
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="statics.teams.cdn.office.net:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT statics.teams.cdn.office.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="170" it="0" lt="169" ct="85" ts="1732659324691" s="true" lb="/-616" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:15:24 GMT
+Via: 1.1 varnish
+Age: 3394
+X-Served-By: cache-pdk-kfty8610098-PDK
+X-Cache: HIT
+X-Cache-Hits: 5286
+X-Timer: S1732659324.484044,VS0,VE1
+Vary: Accept-Encoding
+X-Fastly-Request-ID: 7b65423287eedb3ca2434e376a41078c71104915
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<httpSample t="168" it="0" lt="167" ct="84" ts="1732659329700" s="true" lb="/-617" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:15:29 GMT
+Via: 1.1 varnish
+Age: 3400
+X-Served-By: cache-pdk-kfty8610094-PDK
+X-Cache: HIT
+X-Cache-Hits: 5309
+X-Timer: S1732659329.492159,VS0,VE0
+Vary: Accept-Encoding
+X-Fastly-Request-ID: 31b2c7732af71ba987b993cca96de54a581b31d5
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="174" it="0" lt="174" ct="84" ts="1732659334710" s="true" lb="/-618" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:15:34 GMT
+Via: 1.1 varnish
+Age: 3405
+X-Served-By: cache-pdk-kfty8610047-PDK
+X-Cache: HIT
+X-Cache-Hits: 5226
+X-Timer: S1732659335.502493,VS0,VE0
+Vary: Accept-Encoding
+X-Fastly-Request-ID: 2adf7cd0f64805cd3deb902bdf5c0a67e5d04fa6
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="168" it="0" lt="168" ct="83" ts="1732659339715" s="true" lb="/-619" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:15:39 GMT
+Via: 1.1 varnish
+Age: 3410
+X-Served-By: cache-pdk-kfty8610093-PDK
+X-Cache: HIT
+X-Cache-Hits: 5587
+X-Timer: S1732659340.506764,VS0,VE0
+Vary: Accept-Encoding
+X-Fastly-Request-ID: 1e99a2fb0c9153ee27bb2ed0e7881acf568cd266
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="google.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT google.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="169" it="0" lt="169" ct="85" ts="1732659344724" s="true" lb="/-621" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:15:44 GMT
+Via: 1.1 varnish
+Age: 3414
+X-Served-By: cache-pdk-kfty8610056-PDK
+X-Cache: HIT
+X-Cache-Hits: 5392
+X-Timer: S1732659345.518674,VS0,VE0
+Vary: Accept-Encoding
+X-Fastly-Request-ID: e95aa4a67fa79e9daab9fbd2af11367164e828d7
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="170" it="0" lt="170" ct="86" ts="1732659349729" s="true" lb="/-622" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:15:49 GMT
+Via: 1.1 varnish
+Age: 3420
+X-Served-By: cache-pdk-kfty8610089-PDK
+X-Cache: HIT
+X-Cache-Hits: 5261
+X-Timer: S1732659350.523507,VS0,VE0
+Vary: Accept-Encoding
+X-Fastly-Request-ID: e482c6107c3ad5923434474a17ac56c39521eed8
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="statics.teams.cdn.office.net:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT statics.teams.cdn.office.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="176" it="0" lt="175" ct="85" ts="1732659354726" s="true" lb="/-623" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:15:54 GMT
+Via: 1.1 varnish
+Age: 3424
+X-Served-By: cache-pdk-kfty8610045-PDK
+X-Cache: HIT
+X-Cache-Hits: 5295
+X-Timer: S1732659355.519747,VS0,VE0
+Vary: Accept-Encoding
+X-Fastly-Request-ID: 3c9c80dc4d582ec1323293c18548ca9ce33d45ec
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="168" it="0" lt="168" ct="84" ts="1732659359730" s="true" lb="/-624" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:15:59 GMT
+Via: 1.1 varnish
+Age: 3429
+X-Served-By: cache-pdk-kfty8610044-PDK
+X-Cache: HIT
+X-Cache-Hits: 5322
+X-Timer: S1732659360.524030,VS0,VE0
+Vary: Accept-Encoding
+X-Fastly-Request-ID: 014260467e269fc83adb3a6d44a3f9071bbc5ee8
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="config.extension.grammarly.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT config.extension.grammarly.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="167" it="0" lt="167" ct="83" ts="1732659364742" s="true" lb="/-625" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:16:04 GMT
+Via: 1.1 varnish
+Age: 3434
+X-Served-By: cache-pdk-kfty8610039-PDK
+X-Cache: HIT
+X-Cache-Hits: 5852
+X-Timer: S1732659365.534726,VS0,VE0
+Vary: Accept-Encoding
+X-Fastly-Request-ID: 491ab0f736b41d1bbab491ece2aceb491def16f0
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="cmp.osano.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT cmp.osano.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="170" it="0" lt="170" ct="85" ts="1732659369755" s="true" lb="/-626" rc="301" rm="Moved Permanently" tn="" dt="text" de="" by="668" sby="179" sc="1" ec="0" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 162
+Server: GitHub.com
+Content-Type: text/html
+Location: https://docs.rancherdesktop.io/
+X-GitHub-Request-Id: 5185:1E8686:1602C45:186B737:67463B39
+Accept-Ranges: bytes
+Date: Tue, 26 Nov 2024 22:16:09 GMT
+Via: 1.1 varnish
+Age: 3439
+X-Served-By: cache-pdk-kfty8610092-PDK
+X-Cache: HIT
+X-Cache-Hits: 5393
+X-Timer: S1732659370.549315,VS0,VE1
+Vary: Accept-Encoding
+X-Fastly-Request-ID: c2c567b346e1feccc14beae4409d8aca3444a6b9
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Host: docs.rancherdesktop.io
+Accept-Encoding: gzip,deflate
+Accept: */*
+User-Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://docs.rancherdesktop.io/</redirectLocation>
+  <java.net.URL>http://docs.rancherdesktop.io/</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1220" sby="0" sc="1" ec="1" ng="0" na="0" hn="S4N00157">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+
+</testResults>

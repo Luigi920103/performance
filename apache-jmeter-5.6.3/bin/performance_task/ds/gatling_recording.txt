@@ -1,0 +1,147 @@
+package io.gatling.demo;
+
+import java.time.Duration;
+import java.util.*;
+
+import io.gatling.javaapi.core.*;
+import io.gatling.javaapi.http.*;
+import io.gatling.javaapi.jdbc.*;
+
+import static io.gatling.javaapi.core.CoreDsl.*;
+import static io.gatling.javaapi.http.HttpDsl.*;
+import static io.gatling.javaapi.jdbc.JdbcDsl.*;
+
+public class Task1 extends Simulation {
+
+  private HttpProtocolBuilder httpProtocol = http
+      .baseUrl("http://localhost")
+      .inferHtmlResources(AllowList(),
+          DenyList(".*.png", ".*.jpg", "http://localhost/wp-content/uploads/2023.*",
+              "http://localhost/wp-includes/css/.*", "http://localhost/wp-includes.*",
+              "http://localhost/wp-content/plugins.*", "http://localhost/wp-content/themes.*",
+              "http://localhost/favicon.ico"))
+      .acceptHeader("text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
+      .acceptEncodingHeader("gzip, deflate")
+      .acceptLanguageHeader("en-US,en;q=0.5")
+      .userAgentHeader("Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0");
+
+  private Map<CharSequence, String> headers_0 = Map.ofEntries(
+      Map.entry("Priority", "u=0, i"),
+      Map.entry("Upgrade-Insecure-Requests", "1"));
+
+  private Map<CharSequence, String> headers_3 = Map.ofEntries(
+      Map.entry("Accept", "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5"),
+      Map.entry("Priority", "u=4, i"));
+
+  private Map<CharSequence, String> headers_4 = Map.ofEntries(
+      Map.entry("Accept", "*/*"),
+      Map.entry("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8"),
+      Map.entry("Origin", "http://localhost"),
+      Map.entry("Priority", "u=0"),
+      Map.entry("X-Requested-With", "XMLHttpRequest"));
+
+  private Map<CharSequence, String> headers_9 = Map.ofEntries(
+      Map.entry("Origin", "http://localhost"),
+      Map.entry("Priority", "u=0, i"),
+      Map.entry("Upgrade-Insecure-Requests", "1"));
+
+  private Map<CharSequence, String> headers_11 = Map.ofEntries(
+      Map.entry("Content-Type",
+          "multipart/form-data; boundary=---------------------------4273566429787328532028452588"),
+      Map.entry("Origin", "http://localhost"),
+      Map.entry("Priority", "u=0, i"),
+      Map.entry("Upgrade-Insecure-Requests", "1"));
+
+  private ScenarioBuilder scn = scenario("Task1")
+      .exec(
+          // Open_app,
+          http("request_0")
+              .get("/")
+              .headers(headers_0),
+          pause(1),
+          // Navigate_to_tables,
+          http("request_1")
+              .get("/tables")
+              .headers(headers_0),
+          pause(1),
+          // Open_table,
+          http("request_2")
+              .get("/products/living-room-table7")
+              .headers(headers_0)
+              .check(regex("post_id.:\"(.{1,4})\",").saveAs("extractedProductId")),
+          pause(1),
+
+          // Add_table_to_the_car,
+          http("request_4")
+              .post("/wp-admin/admin-ajax.php")
+              .headers(headers_4)
+              .formParam("action", "ic_add_to_cart")
+              .formParam("add_cart_data",
+                  "current_product=${extractedProductId}&cart_content=&current_quantity=1")
+              .formParam("cart_widget", "0")
+              .formParam("cart_container", "0"),
+          pause(1),
+          // Nabigate_to_chairs,
+          http("request_5")
+              .get("/chairs")
+              .headers(headers_0),
+          pause(1),
+          // Open_a_chair,
+          http("request_6")
+              .get("/products/modern-chair2")
+              .headers(headers_0)
+              .check(regex("post_id.:\"(.{1,4})\",").saveAs("extractedProductId2")),
+
+          pause(1),
+
+          // add_chair,
+          http("request_7")
+              .post("/wp-admin/admin-ajax.php")
+              .headers(headers_4)
+              .formParam("action", "ic_add_to_cart")
+              .formParam("add_cart_data",
+                  "current_product=${extractedProductId2}&cart_content=%7B%22${extractedProductId}__%22%3A1%7D&current_quantity=1")
+              .formParam("cart_widget", "0")
+              .formParam("cart_container", "0"),
+          pause(1),
+          // Navigate_to_cart,
+          http("request_8")
+              .get("/cart")
+              .headers(headers_0)
+              // .check(regex("data-price=\"(.{1,8})\"").find(1).saveAs("price"))
+              // .check(regex("data-price=\"(.{1,8})\"").saveAs("price2"))
+              .check(regex("total_net\">(.{1,10})<").saveAs("totalNet7777"))
+              .check(regex("value=\"(.{11,16})\" name=\"trans_id").saveAs("transactionId")),
+          pause(1),
+          // Click_place_an_order,
+          http("request_9")
+              .post("/checkout")
+              .headers(headers_9)
+              .formParam("cart_content",
+                  "{\"${extractedProductId}__\":1,\"${extractedProductId2}__\":1}")
+              .formParam("p_id[]", "${extractedProductId}__")
+              .formParam("p_quantity[]", "1")
+              .formParam("p_id[]", "${extractedProductId2}__")
+              .formParam("p_quantity[]", "1")
+              .formParam("total_net", "475.00")
+              .formParam("trans_id", "17327348563605")
+              .formParam("shipping", "order"),
+          pause(1),
+          // Fill_out_form,
+          http("request_10")
+              .post("/wp-admin/admin-ajax.php")
+              .headers(headers_4)
+              .formParam("action", "ic_state_dropdown")
+              .formParam("country_code", "CO")
+              .formParam("state_code", ""),
+          pause(1),
+          // Place_order,
+          http("request_11")
+              .post("/checkout")
+              .headers(headers_11)
+              .body(RawFileBody("io/gatling/demo/task1/0011_request.html")));
+
+  {
+    setUp(scn.injectOpen(atOnceUsers(1))).protocols(httpProtocol);
+  }
+}

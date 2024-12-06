@@ -1,0 +1,12 @@
+{
+  "steps" : [ {
+    "stepMessage" : "Original Recording",
+    "testPlanFilepath" : "C:\\Users\\Luis F Escamilla R\\Desktop\\jmeter\\apache-jmeter-5.6.3\\bin\\Recording\\snapshot-1732658186532.jmx",
+    "recordingTraceFilepath" : "C:\\Users\\Luis F Escamilla R\\Desktop\\jmeter\\apache-jmeter-5.6.3\\bin\\Recording\\recording-1732658186552.jtl",
+    "replayTraceFilepath" : null,
+    "timestamp" : "2024-11-26T21:56:26.575Z",
+    "fatherTimeStamp" : null,
+    "notes" : "Automatically generated iteration after recording"
+  } ],
+  "historyId" : "1732657850690"
+}
