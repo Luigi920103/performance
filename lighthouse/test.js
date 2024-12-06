@@ -74,7 +74,7 @@ onlyCategories: ['performance'],
 });
 
 //View Links
-let HomePage = 'http://localhost/';
+let HomePage = 'http://wp/';
 let ThankYouPage = HomePage+'thank-you';
 
 //Test variables
