@@ -22,11 +22,11 @@ public class Task1 extends Simulation {
         private HttpProtocolBuilder httpProtocol = http
                         .baseUrl("http://wp")
                         .inferHtmlResources(AllowList(),
-                                        DenyList(".*.png", ".*.jpg", "http://wp/wp-content/uploads/2023.*",
-                                                        "http://wp/wp-includes/css/.*", "http://wp/wp-includes.*",
-                                                        "http://wp/wp-content/plugins.*",
-                                                        "http://wp/wp-content/themes.*",
-                                                        "http://wp/favicon.ico"))
+                                        DenyList(".*.png", ".*.jpg", ".*/wp-content/uploads/2023.*",
+                                                        ".*/wp-includes/css/.*", ".*/wp-includes.*",
+                                                        ".*/wp-content/plugins.*",
+                                                        ".*/wp-content/themes.*",
+                                                        ".*/favicon.ico"))
                         .acceptHeader("text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
                         .acceptEncodingHeader("gzip, deflate")
                         .acceptLanguageHeader("en-US,en;q=0.5")
