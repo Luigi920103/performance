@@ -60,8 +60,8 @@ public class Task1 extends Simulation {
                         http("Step_0_Open_app")
                                         .get("/")
                                         .headers(headers_0)
-                                        .check(status().is(200)))
-                        .pause(1);
+                                        .check(status().is(200)));
+        // .pause(1);
 
         private ChainBuilder Navigate_to_(String page, String requestNumber) {
                 return exec(
@@ -353,8 +353,8 @@ public class Task1 extends Simulation {
                                                                         ""
 
                                         ))
-                                        .check(status().is(200)))
-                        .pause(1);
+                                        .check(status().is(200)));
+        // .pause(1);
 
         private ScenarioBuilder scn = scenario("Task1")
                         .repeat(5, "i").on(
