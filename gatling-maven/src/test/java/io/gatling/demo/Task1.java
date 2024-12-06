@@ -59,6 +59,7 @@ public class Task1 extends Simulation {
         private ChainBuilder Open_app = exec(
                         http("Step_0_Open_app")
                                         .get("/")
+                                        .disableFollowRedirect()
                                         .headers(headers_0)
                                         .check(status().is(200)));
         // .pause(1);
@@ -152,6 +153,7 @@ public class Task1 extends Simulation {
                         http("Step_10")
                                         .post("/checkout")
                                         .headers(headers_11)
+                                        .disableFollowRedirect()
                                         .body(StringBody(
                                                         "-----------------------------4273566429787328532028452588\r\n"
                                                                         + //
