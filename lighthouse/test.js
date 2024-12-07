@@ -39,7 +39,9 @@ async function captureReport() { //we will call the function at the end of the s
 
 //const browser = await puppeteer.launch({"headless": true,args: ['--allow-no-sandbox-job', '--allow-sandbox-debugging', '--no-sandbox', '--disable-gpu', '--disable-gpu-sandbox', '--display', '--ignore-certificate-errors', '--disable-storage-reset=true']});
 
-const browser = await puppeteer.launch({"headless": 'shell',args: ["--no-sandbox",'--enable-gpu'],ignoreDefaultArgs: ['--disable-extensions']});
+//const browser = await puppeteer.launch({"headless": 'shell',args: ["--no-sandbox",'--enable-gpu'],ignoreDefaultArgs: ['--disable-extensions']});
+
+const browser = await puppeteer.launch({args: ['--allow-no-sandbox-job', '--allow-sandbox-debugging', '--no-sandbox', '--disable-gpu', '--disable-gpu-sandbox', '--display', '--ignore-certificate-errors', '--disable-storage-reset=true']});
 
 
 //arguments in '--' for 1)opening Chrome without a window/display; 2) ignore certificate; 3) way of clicking
