@@ -37,7 +37,9 @@ await page.waitForTimeout(checkDurationMsecs);
 
 async function captureReport() { //we will call the function at the end of the script
 
-const browser = await puppeteer.launch({"headless": true,args: ['--allow-no-sandbox-job', '--allow-sandbox-debugging', '--no-sandbox', '--disable-gpu', '--disable-gpu-sandbox', '--display', '--ignore-certificate-errors', '--disable-storage-reset=true']});
+//const browser = await puppeteer.launch({"headless": true,args: ['--allow-no-sandbox-job', '--allow-sandbox-debugging', '--no-sandbox', '--disable-gpu', '--disable-gpu-sandbox', '--display', '--ignore-certificate-errors', '--disable-storage-reset=true']});
+
+const browser = await puppeteer.launch({"headless": true,args: ["--no-sandbox"]});
 
 
 //arguments in '--' for 1)opening Chrome without a window/display; 2) ignore certificate; 3) way of clicking
