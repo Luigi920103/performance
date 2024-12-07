@@ -167,7 +167,7 @@ await flow.navigate(async () => {
 	//const report = flow.generateReport();
 	//const reportJson = JSON.stringify(flow.getFlowResult()).replace(/</g, '\\u003c').replace(/\u2028/g, '\\u2028').replace(/\u2029/g, '\\u2029');
 	
-	fs.writeFileSync('report.html', await flow.generateReport());
+	fs.writeFileSync('reports/report.html', await flow.generateReport());
 	//fs.writeFileSync(reportPathJson, reportJson);
 
 await browser.close(); //close Chrome
